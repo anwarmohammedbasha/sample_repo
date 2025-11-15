@@ -1,0 +1,50 @@
+purchase_id,purchase_date,item_name,supplier_name,quantity,total_cost
+PUR-202537-0001,2025-09-13,Almond Milk (L),Fresh Roasters Ltd,68,148.55
+PUR-202537-0002,2025-09-13,Almond Milk (L),Global Paper Goods,45,97.01
+PUR-202537-0003,2025-09-14,Syrup (1L),DairyCo Supplies,58,476.67
+PUR-202537-0004,2025-09-13,Napkins (100ct),Fresh Roasters Ltd,54,90.36
+PUR-202537-0005,2025-09-14,Sugar (kg),DairyCo Supplies,61,36.59
+PUR-202538-0006,2025-09-17,Whole Milk (L),Local Farms Co.,92,100.87
+PUR-202538-0007,2025-09-16,Lids (100ct),Bakery Ingredients Inc,24,59.42
+PUR-202538-0008,2025-09-19,Lids (100ct),Fresh Roasters Ltd,13,32.6
+PUR-202538-0009,2025-09-18,Whole Milk (L),Bakery Ingredients Inc,91,101.83
+PUR-202538-0010,2025-09-20,Lids (100ct),Bakery Ingredients Inc,39,90.1
+PUR-202539-0011,2025-09-24,Cold Brew Concentrate (L),Local Farms Co.,58,680.92
+PUR-202539-0012,2025-09-26,Sugar (kg),Bakery Ingredients Inc,19,10.33
+PUR-202539-0013,2025-09-25,Lids (100ct),Fresh Roasters Ltd,24,58.02
+PUR-202539-0014,2025-09-24,Flour (kg),DairyCo Supplies,39,32.05
+PUR-202539-0015,2025-09-24,Cold Brew Concentrate (L),Bakery Ingredients Inc,19,206.76
+PUR-202539-0016,2025-09-28,Boxes (pack),Local Farms Co.,71,225.19
+PUR-202539-0017,2025-09-25,Coffee Beans (kg),Local Farms Co.,63,646.45
+PUR-202539-0018,2025-09-27,Cheese (kg),Local Farms Co.,25,154.68
+PUR-202539-0019,2025-09-23,Butter (kg),DairyCo Supplies,89,347.43
+PUR-202540-0020,2025-10-04,Syrup (1L),Local Farms Co.,9,66.37
+PUR-202540-0021,2025-10-04,Almond Milk (L),Global Paper Goods,21,43.92
+PUR-202540-0022,2025-10-04,Almond Milk (L),Local Farms Co.,20,41.06
+PUR-202540-0023,2025-10-02,Lids (100ct),Global Paper Goods,70,189.42
+PUR-202540-0024,2025-10-05,Lids (100ct),DairyCo Supplies,16,45.71
+PUR-202540-0025,2025-10-01,Coffee Beans (kg),DairyCo Supplies,45,514.15
+PUR-202540-0026,2025-10-01,Almond Milk (L),DairyCo Supplies,75,161.23
+PUR-202540-0027,2025-09-29,Cold Brew Concentrate (L),DairyCo Supplies,76,921.43
+PUR-202540-0028,2025-10-05,Napkins (100ct),Global Paper Goods,29,39.17
+PUR-202540-0029,2025-10-01,Coffee Beans (kg),Global Paper Goods,38,351.94
+PUR-202541-0030,2025-10-10,Napkins (100ct),Local Farms Co.,51,76.58
+PUR-202541-0031,2025-10-06,Cold Brew Concentrate (L),Local Farms Co.,27,323.31
+PUR-202541-0032,2025-10-08,Paper Cups (100ct),DairyCo Supplies,32,136.67
+PUR-202541-0033,2025-10-11,Coffee Beans (kg),DairyCo Supplies,38,425.01
+PUR-202541-0034,2025-10-08,Paper Cups (100ct),Global Paper Goods,99,435.55
+PUR-202541-0035,2025-10-07,Syrup (1L),Global Paper Goods,49,407.3
+PUR-202541-0036,2025-10-11,Paper Cups (100ct),Global Paper Goods,5,19.32
+PUR-202541-0037,2025-10-06,Almond Milk (L),Local Farms Co.,27,52.54
+PUR-202541-0038,2025-10-11,Almond Milk (L),Fresh Roasters Ltd,56,118.13
+PUR-202542-0039,2025-10-19,Almond Milk (L),Bakery Ingredients Inc,95,215.95
+PUR-202542-0040,2025-10-16,Flour (kg),Fresh Roasters Ltd,50,40.5
+PUR-202542-0041,2025-10-14,Coffee Beans (kg),Local Farms Co.,2,20.17
+PUR-202542-0042,2025-10-13,Skim Milk (L),DairyCo Supplies,14,16.02
+PUR-202542-0043,2025-10-17,Coffee Beans (kg),DairyCo Supplies,85,795.61
+PUR-202543-0044,2025-10-20,Coffee Beans (kg),Fresh Roasters Ltd,32,366.96
+PUR-202543-0045,2025-10-24,Napkins (100ct),Fresh Roasters Ltd,72,115.63
+PUR-202543-0046,2025-10-21,Butter (kg),Global Paper Goods,82,328.75
+PUR-202543-0047,2025-10-24,Skim Milk (L),DairyCo Supplies,16,18.35
+PUR-202543-0048,2025-10-25,Skim Milk (L),DairyCo Supplies,52,57.49
+PUR-202543-0049,2025-10-22,Sugar (kg),Bakery Ingredients Inc,29,19.71

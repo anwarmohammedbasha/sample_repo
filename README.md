@@ -1,2 +1,4 @@
-# ETL Task
-Task Details: https://www.notion.so/anwarmohammedbasha/Task-Board-291c34fe838f80eaa089f91551e29a10
+# ETL Jobs for Anwar Stores
+
+This repository contains a collection of ETL (Extract, Transform, Load) workflows designed for Anwar Stores. 
+Each job processes business datasets such as sales, customers, products, and inventory to generate clean, structured outputs for reporting and analysis.

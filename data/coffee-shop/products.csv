@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price
+PROD-001,Quiche,Food,8.82
+PROD-002,Pain au Chocolat (Large),Food,2.8
+PROD-003,Espresso,Hot Drink,3.14
+PROD-004,Nitro Cold Brew (With Soy),Cold Drink,5.72
+PROD-005,Butter Croissant,Food,6.57
+PROD-006,Blueberry Muffin,Food,4.77
+PROD-007,Caffè Americano,Hot Drink,4.88
+PROD-008,Mocha,Hot Drink,4.37
+PROD-009,Logo Mug,Merchandise,12.54
+PROD-010,Butter Croissant (Almond Milk),Food,6.2
+PROD-011,Herbal Tea,Hot Drink,6.27
+PROD-012,Lemonade,Cold Drink,5.72
+PROD-013,Chocolate Chip Cookie (Hazelnut),Food,2.47
+PROD-014,Bagel (Small),Food,9.02
+PROD-015,Cold Brew,Cold Drink,6.0
+PROD-016,Chai Latte,Hot Drink,5.57
+PROD-017,Scone,Food,4.39
+PROD-018,Brownie,Food,3.99
+PROD-019,Blueberry Muffin (Small),Food,2.84
+PROD-020,Oatmeal (With Soy),Food,1.53
+PROD-021,Espresso (Sugar-free),Hot Drink,5.39
+PROD-022,Iced Latte,Cold Drink,5.88
+PROD-023,Logo Mug (With Soy),Merchandise,34.16
+PROD-024,Travel Tumbler,Merchandise,27.86
+PROD-025,Oatmeal,Food,5.82
+PROD-026,Quiche (Sugar-free),Food,2.4
+PROD-027,Oatmeal (Small),Food,6.82
+PROD-028,Iced Matcha Latte,Cold Drink,6.37
+PROD-029,Macchiato,Hot Drink,4.53
+PROD-030,Bean Bag (1kg),Merchandise,10.97
+PROD-031,Hot Chocolate,Hot Drink,4.0
+PROD-032,Roast Beef Sandwich,Food,2.87
+PROD-033,Reusable Cup,Merchandise,33.6
+PROD-034,Caffè Latte,Hot Drink,6.19
+PROD-035,Thermos Bottle,Merchandise,32.55
+PROD-036,Cappuccino,Hot Drink,4.9
+PROD-037,Pain au Chocolat,Food,5.65
+PROD-038,Iced Tea,Cold Drink,3.45
+PROD-039,Gift Card,Merchandise,15.89
+PROD-040,Chai Latte (Hazelnut),Hot Drink,6.44
+PROD-041,Chicken Salad Sandwich,Food,8.36
+PROD-042,Chocolate Chip Cookie,Food,3.54
+PROD-043,Travel Tumbler (Vanilla),Merchandise,12.23
+PROD-044,Frappuccino,Cold Drink,5.27
+PROD-045,Retail Coffee Bag (250g),Merchandise,7.36
+PROD-046,Frappuccino (Large),Cold Drink,5.93
+PROD-047,Iced Latte (Sugar-free),Cold Drink,6.26
+PROD-048,Espresso (Sugar-free),Hot Drink,6.41
+PROD-049,Flat White,Hot Drink,4.63
+PROD-050,Herbal Tea (Vanilla),Hot Drink,3.0
+PROD-051,Iced Tea (Hazelnut),Cold Drink,5.64
+PROD-052,Hot Chocolate (Small),Hot Drink,6.29
+PROD-053,Nitro Cold Brew,Cold Drink,3.66
+PROD-054,Espresso (Large),Hot Drink,4.61
+PROD-055,Iced Coffee,Cold Drink,5.43
+PROD-056,Bagel,Food,9.7
+PROD-057,Iced Latte (Vanilla),Cold Drink,6.72
+PROD-058,Green Tea,Hot Drink,5.52
+PROD-059,Ham & Cheese Sandwich,Food,7.36
+PROD-060,Macchiato (Large),Hot Drink,5.35

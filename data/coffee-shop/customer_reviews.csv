@@ -1,0 +1,743 @@
+review_id,review_date,rating,comment
+REV-20250913-00001,2025-09-13,4,Quality beans and smooth brew.
+REV-20250913-00002,2025-09-13,2,
+REV-20250913-00003,2025-09-13,3,
+REV-20250913-00004,2025-09-13,3,Nothing special.
+REV-20250913-00005,2025-09-13,1,Overpriced for the portion.
+REV-20250913-00006,2025-09-13,5,
+REV-20250913-00007,2025-09-13,4,Quality beans and smooth brew.
+REV-20250913-00008,2025-09-13,4,Loved the latte art.
+REV-20250913-00009,2025-09-13,2,"Cold coffee, disappointed."
+REV-20250913-00010,2025-09-13,4,Fast service and delicious pastry.
+REV-20250913-00011,2025-09-13,4,Fast service and delicious pastry.
+REV-20250913-00012,2025-09-13,2,Not as fresh as usual.
+REV-20250913-00013,2025-09-13,4,Quality beans and smooth brew.
+REV-20250913-00014,2025-09-13,3,Average experience.
+REV-20250913-00015,2025-09-13,4,Great coffee and friendly staff!
+REV-20250914-00016,2025-09-14,1,Long wait and rude staff.
+REV-20250914-00017,2025-09-14,5,Cozy place to work.
+REV-20250914-00018,2025-09-14,3,Service was a bit slow today.
+REV-20250914-00019,2025-09-14,3,It was okay.
+REV-20250914-00020,2025-09-14,1,Not as fresh as usual.
+REV-20250914-00021,2025-09-14,5,Cozy place to work.
+REV-20250914-00022,2025-09-14,4,Loved the latte art.
+REV-20250914-00023,2025-09-14,3,Average experience.
+REV-20250914-00024,2025-09-14,2,Found a hair in my sandwich.
+REV-20250914-00025,2025-09-14,5,Perfect morning pick-me-up.
+REV-20250914-00026,2025-09-14,1,Not as fresh as usual.
+REV-20250914-00027,2025-09-14,5,Perfect morning pick-me-up.
+REV-20250914-00028,2025-09-14,4,Fast service and delicious pastry.
+REV-20250914-00029,2025-09-14,3,Average experience.
+REV-20250914-00030,2025-09-14,4,Fast service and delicious pastry.
+REV-20250914-00031,2025-09-14,2,Not as fresh as usual.
+REV-20250914-00032,2025-09-14,5,Perfect morning pick-me-up.
+REV-20250914-00033,2025-09-14,3,Nothing special.
+REV-20250914-00034,2025-09-14,3,It was okay.
+REV-20250914-00035,2025-09-14,5,Great coffee and friendly staff!
+REV-20250915-00036,2025-09-15,5,Great coffee and friendly staff!
+REV-20250915-00037,2025-09-15,2,Found a hair in my sandwich.
+REV-20250915-00038,2025-09-15,4,Perfect morning pick-me-up.
+REV-20250915-00039,2025-09-15,4,Cozy place to work.
+REV-20250915-00040,2025-09-15,2,Overpriced for the portion.
+REV-20250915-00041,2025-09-15,5,Loved the latte art.
+REV-20250915-00042,2025-09-15,5,
+REV-20250915-00043,2025-09-15,3,Service was a bit slow today.
+REV-20250915-00044,2025-09-15,4,Loved the latte art.
+REV-20250915-00045,2025-09-15,3,Average experience.
+REV-20250915-00046,2025-09-15,2,Not as fresh as usual.
+REV-20250915-00047,2025-09-15,4,Loved the latte art.
+REV-20250915-00048,2025-09-15,4,
+REV-20250915-00049,2025-09-15,3,Service was a bit slow today.
+REV-20250915-00050,2025-09-15,4,Great coffee and friendly staff!
+REV-20250915-00051,2025-09-15,4,Cozy place to work.
+REV-20250915-00052,2025-09-15,4,Quality beans and smooth brew.
+REV-20250915-00053,2025-09-15,5,Cozy place to work.
+REV-20250915-00054,2025-09-15,5,Loved the latte art.
+REV-20250916-00055,2025-09-16,3,Service was a bit slow today.
+REV-20250916-00056,2025-09-16,2,Not as fresh as usual.
+REV-20250916-00057,2025-09-16,5,Great coffee and friendly staff!
+REV-20250916-00058,2025-09-16,3,Service was a bit slow today.
+REV-20250916-00059,2025-09-16,5,
+REV-20250916-00060,2025-09-16,4,
+REV-20250916-00061,2025-09-16,4,Fast service and delicious pastry.
+REV-20250916-00062,2025-09-16,4,Loved the latte art.
+REV-20250916-00063,2025-09-16,3,Coffee was fine.
+REV-20250916-00064,2025-09-16,3,It was okay.
+REV-20250916-00065,2025-09-16,3,
+REV-20250916-00066,2025-09-16,5,
+REV-20250916-00067,2025-09-16,2,Long wait and rude staff.
+REV-20250916-00068,2025-09-16,5,Cozy place to work.
+REV-20250916-00069,2025-09-16,3,
+REV-20250916-00070,2025-09-16,4,Great coffee and friendly staff!
+REV-20250916-00071,2025-09-16,5,Loved the latte art.
+REV-20250916-00072,2025-09-16,1,Not as fresh as usual.
+REV-20250916-00073,2025-09-16,4,Great coffee and friendly staff!
+REV-20250916-00074,2025-09-16,1,Not as fresh as usual.
+REV-20250916-00075,2025-09-16,4,
+REV-20250916-00076,2025-09-16,4,Quality beans and smooth brew.
+REV-20250916-00077,2025-09-16,2,Not as fresh as usual.
+REV-20250916-00078,2025-09-16,4,Cozy place to work.
+REV-20250916-00079,2025-09-16,2,"Cold coffee, disappointed."
+REV-20250917-00080,2025-09-17,4,Quality beans and smooth brew.
+REV-20250917-00081,2025-09-17,4,Loved the latte art.
+REV-20250917-00082,2025-09-17,4,
+REV-20250917-00083,2025-09-17,5,Perfect morning pick-me-up.
+REV-20250917-00084,2025-09-17,3,It was okay.
+REV-20250917-00085,2025-09-17,5,Cozy place to work.
+REV-20250917-00086,2025-09-17,5,
+REV-20250917-00087,2025-09-17,5,Quality beans and smooth brew.
+REV-20250917-00088,2025-09-17,2,
+REV-20250917-00089,2025-09-17,5,
+REV-20250917-00090,2025-09-17,5,Great coffee and friendly staff!
+REV-20250917-00091,2025-09-17,3,Average experience.
+REV-20250917-00092,2025-09-17,1,Found a hair in my sandwich.
+REV-20250917-00093,2025-09-17,5,Quality beans and smooth brew.
+REV-20250917-00094,2025-09-17,1,Long wait and rude staff.
+REV-20250917-00095,2025-09-17,3,Coffee was fine.
+REV-20250917-00096,2025-09-17,5,
+REV-20250917-00097,2025-09-17,4,Quality beans and smooth brew.
+REV-20250917-00098,2025-09-17,2,Overpriced for the portion.
+REV-20250918-00099,2025-09-18,2,Long wait and rude staff.
+REV-20250918-00100,2025-09-18,4,
+REV-20250918-00101,2025-09-18,3,Nothing special.
+REV-20250918-00102,2025-09-18,5,Perfect morning pick-me-up.
+REV-20250918-00103,2025-09-18,3,It was okay.
+REV-20250918-00104,2025-09-18,2,Not as fresh as usual.
+REV-20250918-00105,2025-09-18,3,Nothing special.
+REV-20250918-00106,2025-09-18,3,Coffee was fine.
+REV-20250918-00107,2025-09-18,5,Loved the latte art.
+REV-20250918-00108,2025-09-18,2,"Cold coffee, disappointed."
+REV-20250918-00109,2025-09-18,3,
+REV-20250918-00110,2025-09-18,5,Loved the latte art.
+REV-20250918-00111,2025-09-18,2,"Cold coffee, disappointed."
+REV-20250918-00112,2025-09-18,3,Service was a bit slow today.
+REV-20250918-00113,2025-09-18,4,Great coffee and friendly staff!
+REV-20250918-00114,2025-09-18,5,Quality beans and smooth brew.
+REV-20250918-00115,2025-09-18,3,Nothing special.
+REV-20250919-00116,2025-09-19,3,It was okay.
+REV-20250919-00117,2025-09-19,2,
+REV-20250919-00118,2025-09-19,2,Found a hair in my sandwich.
+REV-20250919-00119,2025-09-19,4,
+REV-20250919-00120,2025-09-19,5,Quality beans and smooth brew.
+REV-20250919-00121,2025-09-19,4,
+REV-20250919-00122,2025-09-19,1,Not as fresh as usual.
+REV-20250919-00123,2025-09-19,5,Perfect morning pick-me-up.
+REV-20250919-00124,2025-09-19,5,Quality beans and smooth brew.
+REV-20250919-00125,2025-09-19,5,Perfect morning pick-me-up.
+REV-20250919-00126,2025-09-19,1,Long wait and rude staff.
+REV-20250919-00127,2025-09-19,4,Quality beans and smooth brew.
+REV-20250919-00128,2025-09-19,3,Average experience.
+REV-20250919-00129,2025-09-19,2,Long wait and rude staff.
+REV-20250919-00130,2025-09-19,3,It was okay.
+REV-20250919-00131,2025-09-19,2,Overpriced for the portion.
+REV-20250920-00132,2025-09-20,3,It was okay.
+REV-20250920-00133,2025-09-20,4,Fast service and delicious pastry.
+REV-20250920-00134,2025-09-20,2,
+REV-20250920-00135,2025-09-20,3,It was okay.
+REV-20250920-00136,2025-09-20,1,"Cold coffee, disappointed."
+REV-20250920-00137,2025-09-20,1,Long wait and rude staff.
+REV-20250920-00138,2025-09-20,5,Great coffee and friendly staff!
+REV-20250920-00139,2025-09-20,3,Average experience.
+REV-20250920-00140,2025-09-20,5,Perfect morning pick-me-up.
+REV-20250920-00141,2025-09-20,5,
+REV-20250920-00142,2025-09-20,3,Average experience.
+REV-20250920-00143,2025-09-20,5,
+REV-20250920-00144,2025-09-20,4,Cozy place to work.
+REV-20250920-00145,2025-09-20,2,Found a hair in my sandwich.
+REV-20250921-00146,2025-09-21,1,"Cold coffee, disappointed."
+REV-20250921-00147,2025-09-21,3,Coffee was fine.
+REV-20250921-00148,2025-09-21,5,Loved the latte art.
+REV-20250921-00149,2025-09-21,4,Quality beans and smooth brew.
+REV-20250921-00150,2025-09-21,3,Coffee was fine.
+REV-20250921-00151,2025-09-21,5,Fast service and delicious pastry.
+REV-20250921-00152,2025-09-21,5,Loved the latte art.
+REV-20250921-00153,2025-09-21,3,Coffee was fine.
+REV-20250921-00154,2025-09-21,1,Found a hair in my sandwich.
+REV-20250921-00155,2025-09-21,5,Quality beans and smooth brew.
+REV-20250921-00156,2025-09-21,4,Perfect morning pick-me-up.
+REV-20250922-00157,2025-09-22,2,Not as fresh as usual.
+REV-20250922-00158,2025-09-22,2,Long wait and rude staff.
+REV-20250922-00159,2025-09-22,4,Great coffee and friendly staff!
+REV-20250922-00160,2025-09-22,3,It was okay.
+REV-20250922-00161,2025-09-22,4,Fast service and delicious pastry.
+REV-20250922-00162,2025-09-22,2,Overpriced for the portion.
+REV-20250922-00163,2025-09-22,2,Overpriced for the portion.
+REV-20250922-00164,2025-09-22,5,Perfect morning pick-me-up.
+REV-20250922-00165,2025-09-22,5,
+REV-20250922-00166,2025-09-22,1,"Cold coffee, disappointed."
+REV-20250922-00167,2025-09-22,5,Cozy place to work.
+REV-20250922-00168,2025-09-22,4,Quality beans and smooth brew.
+REV-20250922-00169,2025-09-22,2,Not as fresh as usual.
+REV-20250922-00170,2025-09-22,2,
+REV-20250922-00171,2025-09-22,4,
+REV-20250922-00172,2025-09-22,5,Fast service and delicious pastry.
+REV-20250922-00173,2025-09-22,5,
+REV-20250922-00174,2025-09-22,4,Great coffee and friendly staff!
+REV-20250922-00175,2025-09-22,3,
+REV-20250922-00176,2025-09-22,1,Found a hair in my sandwich.
+REV-20250922-00177,2025-09-22,3,Coffee was fine.
+REV-20250923-00178,2025-09-23,3,Coffee was fine.
+REV-20250923-00179,2025-09-23,3,Coffee was fine.
+REV-20250923-00180,2025-09-23,4,Great coffee and friendly staff!
+REV-20250923-00181,2025-09-23,5,Quality beans and smooth brew.
+REV-20250923-00182,2025-09-23,5,Loved the latte art.
+REV-20250923-00183,2025-09-23,1,Not as fresh as usual.
+REV-20250923-00184,2025-09-23,1,
+REV-20250923-00185,2025-09-23,4,Loved the latte art.
+REV-20250923-00186,2025-09-23,3,Service was a bit slow today.
+REV-20250923-00187,2025-09-23,4,Great coffee and friendly staff!
+REV-20250924-00188,2025-09-24,3,It was okay.
+REV-20250924-00189,2025-09-24,5,Quality beans and smooth brew.
+REV-20250924-00190,2025-09-24,4,Perfect morning pick-me-up.
+REV-20250924-00191,2025-09-24,5,Fast service and delicious pastry.
+REV-20250924-00192,2025-09-24,5,Loved the latte art.
+REV-20250924-00193,2025-09-24,4,Loved the latte art.
+REV-20250924-00194,2025-09-24,4,Loved the latte art.
+REV-20250924-00195,2025-09-24,3,Nothing special.
+REV-20250924-00196,2025-09-24,4,
+REV-20250924-00197,2025-09-24,5,Loved the latte art.
+REV-20250924-00198,2025-09-24,5,Loved the latte art.
+REV-20250924-00199,2025-09-24,5,Perfect morning pick-me-up.
+REV-20250925-00200,2025-09-25,5,Quality beans and smooth brew.
+REV-20250925-00201,2025-09-25,5,Cozy place to work.
+REV-20250925-00202,2025-09-25,4,
+REV-20250925-00203,2025-09-25,1,Found a hair in my sandwich.
+REV-20250925-00204,2025-09-25,1,Not as fresh as usual.
+REV-20250925-00205,2025-09-25,1,
+REV-20250925-00206,2025-09-25,5,
+REV-20250925-00207,2025-09-25,4,
+REV-20250925-00208,2025-09-25,4,Loved the latte art.
+REV-20250925-00209,2025-09-25,5,Great coffee and friendly staff!
+REV-20250925-00210,2025-09-25,3,Average experience.
+REV-20250925-00211,2025-09-25,2,Not as fresh as usual.
+REV-20250925-00212,2025-09-25,5,
+REV-20250925-00213,2025-09-25,5,
+REV-20250925-00214,2025-09-25,2,Not as fresh as usual.
+REV-20250925-00215,2025-09-25,1,Found a hair in my sandwich.
+REV-20250926-00216,2025-09-26,4,Cozy place to work.
+REV-20250926-00217,2025-09-26,3,Nothing special.
+REV-20250926-00218,2025-09-26,4,Loved the latte art.
+REV-20250926-00219,2025-09-26,3,Average experience.
+REV-20250926-00220,2025-09-26,1,"Cold coffee, disappointed."
+REV-20250926-00221,2025-09-26,5,Perfect morning pick-me-up.
+REV-20250926-00222,2025-09-26,3,Coffee was fine.
+REV-20250926-00223,2025-09-26,3,Coffee was fine.
+REV-20250926-00224,2025-09-26,3,Service was a bit slow today.
+REV-20250926-00225,2025-09-26,5,
+REV-20250926-00226,2025-09-26,5,Loved the latte art.
+REV-20250926-00227,2025-09-26,1,Overpriced for the portion.
+REV-20250926-00228,2025-09-26,4,
+REV-20250926-00229,2025-09-26,3,
+REV-20250926-00230,2025-09-26,5,
+REV-20250926-00231,2025-09-26,5,
+REV-20250926-00232,2025-09-26,4,Great coffee and friendly staff!
+REV-20250926-00233,2025-09-26,5,Great coffee and friendly staff!
+REV-20250926-00234,2025-09-26,3,Nothing special.
+REV-20250926-00235,2025-09-26,3,Service was a bit slow today.
+REV-20250926-00236,2025-09-26,4,
+REV-20250927-00237,2025-09-27,3,Average experience.
+REV-20250927-00238,2025-09-27,5,Fast service and delicious pastry.
+REV-20250927-00239,2025-09-27,2,Overpriced for the portion.
+REV-20250927-00240,2025-09-27,2,Not as fresh as usual.
+REV-20250927-00241,2025-09-27,5,Loved the latte art.
+REV-20250927-00242,2025-09-27,4,Perfect morning pick-me-up.
+REV-20250927-00243,2025-09-27,4,Cozy place to work.
+REV-20250927-00244,2025-09-27,4,
+REV-20250927-00245,2025-09-27,1,Long wait and rude staff.
+REV-20250927-00246,2025-09-27,3,Average experience.
+REV-20250927-00247,2025-09-27,5,Loved the latte art.
+REV-20250927-00248,2025-09-27,4,Quality beans and smooth brew.
+REV-20250927-00249,2025-09-27,3,It was okay.
+REV-20250927-00250,2025-09-27,5,Quality beans and smooth brew.
+REV-20250927-00251,2025-09-27,5,Loved the latte art.
+REV-20250927-00252,2025-09-27,5,Fast service and delicious pastry.
+REV-20250927-00253,2025-09-27,3,
+REV-20250927-00254,2025-09-27,4,Fast service and delicious pastry.
+REV-20250927-00255,2025-09-27,5,
+REV-20250927-00256,2025-09-27,3,
+REV-20250928-00257,2025-09-28,2,Long wait and rude staff.
+REV-20250928-00258,2025-09-28,2,Found a hair in my sandwich.
+REV-20250928-00259,2025-09-28,5,
+REV-20250928-00260,2025-09-28,4,Fast service and delicious pastry.
+REV-20250928-00261,2025-09-28,1,Overpriced for the portion.
+REV-20250928-00262,2025-09-28,2,"Cold coffee, disappointed."
+REV-20250928-00263,2025-09-28,4,Great coffee and friendly staff!
+REV-20250928-00264,2025-09-28,4,Perfect morning pick-me-up.
+REV-20250928-00265,2025-09-28,3,Coffee was fine.
+REV-20250928-00266,2025-09-28,2,Long wait and rude staff.
+REV-20250928-00267,2025-09-28,1,Found a hair in my sandwich.
+REV-20250928-00268,2025-09-28,5,Cozy place to work.
+REV-20250928-00269,2025-09-28,1,"Cold coffee, disappointed."
+REV-20250928-00270,2025-09-28,1,"Cold coffee, disappointed."
+REV-20250928-00271,2025-09-28,4,Fast service and delicious pastry.
+REV-20250928-00272,2025-09-28,1,Found a hair in my sandwich.
+REV-20250928-00273,2025-09-28,1,Found a hair in my sandwich.
+REV-20250928-00274,2025-09-28,1,
+REV-20250928-00275,2025-09-28,5,Perfect morning pick-me-up.
+REV-20250928-00276,2025-09-28,3,It was okay.
+REV-20250928-00277,2025-09-28,5,Great coffee and friendly staff!
+REV-20250928-00278,2025-09-28,4,Quality beans and smooth brew.
+REV-20250929-00279,2025-09-29,2,Long wait and rude staff.
+REV-20250929-00280,2025-09-29,5,Quality beans and smooth brew.
+REV-20250929-00281,2025-09-29,4,Great coffee and friendly staff!
+REV-20250929-00282,2025-09-29,5,Great coffee and friendly staff!
+REV-20250929-00283,2025-09-29,4,
+REV-20250929-00284,2025-09-29,4,Great coffee and friendly staff!
+REV-20250929-00285,2025-09-29,2,
+REV-20250929-00286,2025-09-29,5,Great coffee and friendly staff!
+REV-20250929-00287,2025-09-29,2,Found a hair in my sandwich.
+REV-20250929-00288,2025-09-29,5,Loved the latte art.
+REV-20250929-00289,2025-09-29,4,Loved the latte art.
+REV-20250929-00290,2025-09-29,5,Fast service and delicious pastry.
+REV-20250929-00291,2025-09-29,2,Overpriced for the portion.
+REV-20250929-00292,2025-09-29,5,Perfect morning pick-me-up.
+REV-20250929-00293,2025-09-29,5,Quality beans and smooth brew.
+REV-20250929-00294,2025-09-29,4,
+REV-20250929-00295,2025-09-29,4,Great coffee and friendly staff!
+REV-20250929-00296,2025-09-29,4,Quality beans and smooth brew.
+REV-20250929-00297,2025-09-29,4,
+REV-20250929-00298,2025-09-29,5,
+REV-20250929-00299,2025-09-29,5,Loved the latte art.
+REV-20250929-00300,2025-09-29,4,Loved the latte art.
+REV-20250930-00301,2025-09-30,3,Nothing special.
+REV-20250930-00302,2025-09-30,2,"Cold coffee, disappointed."
+REV-20250930-00303,2025-09-30,5,Loved the latte art.
+REV-20250930-00304,2025-09-30,5,
+REV-20250930-00305,2025-09-30,4,Cozy place to work.
+REV-20250930-00306,2025-09-30,5,Cozy place to work.
+REV-20250930-00307,2025-09-30,3,Average experience.
+REV-20250930-00308,2025-09-30,4,Loved the latte art.
+REV-20250930-00309,2025-09-30,1,"Cold coffee, disappointed."
+REV-20250930-00310,2025-09-30,4,Cozy place to work.
+REV-20251001-00311,2025-10-01,3,It was okay.
+REV-20251001-00312,2025-10-01,5,Quality beans and smooth brew.
+REV-20251001-00313,2025-10-01,4,Fast service and delicious pastry.
+REV-20251001-00314,2025-10-01,3,
+REV-20251001-00315,2025-10-01,2,Overpriced for the portion.
+REV-20251001-00316,2025-10-01,5,Great coffee and friendly staff!
+REV-20251001-00317,2025-10-01,3,Service was a bit slow today.
+REV-20251001-00318,2025-10-01,4,Quality beans and smooth brew.
+REV-20251001-00319,2025-10-01,4,Perfect morning pick-me-up.
+REV-20251001-00320,2025-10-01,2,Found a hair in my sandwich.
+REV-20251001-00321,2025-10-01,2,Overpriced for the portion.
+REV-20251001-00322,2025-10-01,5,Quality beans and smooth brew.
+REV-20251001-00323,2025-10-01,5,Fast service and delicious pastry.
+REV-20251001-00324,2025-10-01,5,
+REV-20251001-00325,2025-10-01,3,Service was a bit slow today.
+REV-20251001-00326,2025-10-01,5,Loved the latte art.
+REV-20251001-00327,2025-10-01,3,Service was a bit slow today.
+REV-20251001-00328,2025-10-01,4,Great coffee and friendly staff!
+REV-20251001-00329,2025-10-01,3,Nothing special.
+REV-20251002-00330,2025-10-02,5,Great coffee and friendly staff!
+REV-20251002-00331,2025-10-02,4,Loved the latte art.
+REV-20251002-00332,2025-10-02,4,Great coffee and friendly staff!
+REV-20251002-00333,2025-10-02,5,Cozy place to work.
+REV-20251002-00334,2025-10-02,5,Perfect morning pick-me-up.
+REV-20251002-00335,2025-10-02,5,Perfect morning pick-me-up.
+REV-20251002-00336,2025-10-02,2,Overpriced for the portion.
+REV-20251002-00337,2025-10-02,1,Overpriced for the portion.
+REV-20251002-00338,2025-10-02,4,Cozy place to work.
+REV-20251002-00339,2025-10-02,5,Great coffee and friendly staff!
+REV-20251002-00340,2025-10-02,2,Overpriced for the portion.
+REV-20251002-00341,2025-10-02,4,Cozy place to work.
+REV-20251002-00342,2025-10-02,2,Overpriced for the portion.
+REV-20251002-00343,2025-10-02,5,Cozy place to work.
+REV-20251002-00344,2025-10-02,4,
+REV-20251002-00345,2025-10-02,4,Loved the latte art.
+REV-20251002-00346,2025-10-02,2,
+REV-20251002-00347,2025-10-02,3,It was okay.
+REV-20251002-00348,2025-10-02,2,"Cold coffee, disappointed."
+REV-20251002-00349,2025-10-02,5,Great coffee and friendly staff!
+REV-20251002-00350,2025-10-02,5,Fast service and delicious pastry.
+REV-20251002-00351,2025-10-02,4,Perfect morning pick-me-up.
+REV-20251003-00352,2025-10-03,4,Cozy place to work.
+REV-20251003-00353,2025-10-03,3,
+REV-20251003-00354,2025-10-03,2,"Cold coffee, disappointed."
+REV-20251003-00355,2025-10-03,5,Great coffee and friendly staff!
+REV-20251003-00356,2025-10-03,5,Quality beans and smooth brew.
+REV-20251003-00357,2025-10-03,5,Loved the latte art.
+REV-20251003-00358,2025-10-03,4,Loved the latte art.
+REV-20251003-00359,2025-10-03,2,Not as fresh as usual.
+REV-20251003-00360,2025-10-03,4,
+REV-20251003-00361,2025-10-03,5,Perfect morning pick-me-up.
+REV-20251004-00362,2025-10-04,1,Not as fresh as usual.
+REV-20251004-00363,2025-10-04,4,Fast service and delicious pastry.
+REV-20251004-00364,2025-10-04,3,It was okay.
+REV-20251004-00365,2025-10-04,4,
+REV-20251004-00366,2025-10-04,1,
+REV-20251004-00367,2025-10-04,1,"Cold coffee, disappointed."
+REV-20251004-00368,2025-10-04,3,Coffee was fine.
+REV-20251004-00369,2025-10-04,4,Great coffee and friendly staff!
+REV-20251004-00370,2025-10-04,5,Loved the latte art.
+REV-20251004-00371,2025-10-04,5,Great coffee and friendly staff!
+REV-20251004-00372,2025-10-04,2,Overpriced for the portion.
+REV-20251004-00373,2025-10-04,3,Coffee was fine.
+REV-20251004-00374,2025-10-04,1,Not as fresh as usual.
+REV-20251004-00375,2025-10-04,2,Long wait and rude staff.
+REV-20251004-00376,2025-10-04,4,Cozy place to work.
+REV-20251004-00377,2025-10-04,3,Coffee was fine.
+REV-20251004-00378,2025-10-04,4,Great coffee and friendly staff!
+REV-20251004-00379,2025-10-04,3,Average experience.
+REV-20251005-00380,2025-10-05,4,
+REV-20251005-00381,2025-10-05,4,Loved the latte art.
+REV-20251005-00382,2025-10-05,4,
+REV-20251005-00383,2025-10-05,4,Perfect morning pick-me-up.
+REV-20251005-00384,2025-10-05,5,Great coffee and friendly staff!
+REV-20251005-00385,2025-10-05,3,
+REV-20251005-00386,2025-10-05,4,Perfect morning pick-me-up.
+REV-20251005-00387,2025-10-05,2,Not as fresh as usual.
+REV-20251005-00388,2025-10-05,5,Loved the latte art.
+REV-20251005-00389,2025-10-05,3,Coffee was fine.
+REV-20251005-00390,2025-10-05,4,Quality beans and smooth brew.
+REV-20251005-00391,2025-10-05,4,Great coffee and friendly staff!
+REV-20251005-00392,2025-10-05,4,Great coffee and friendly staff!
+REV-20251005-00393,2025-10-05,5,Great coffee and friendly staff!
+REV-20251005-00394,2025-10-05,1,Long wait and rude staff.
+REV-20251005-00395,2025-10-05,3,Nothing special.
+REV-20251005-00396,2025-10-05,3,Coffee was fine.
+REV-20251005-00397,2025-10-05,1,Not as fresh as usual.
+REV-20251006-00398,2025-10-06,5,Loved the latte art.
+REV-20251006-00399,2025-10-06,4,Quality beans and smooth brew.
+REV-20251006-00400,2025-10-06,5,Fast service and delicious pastry.
+REV-20251006-00401,2025-10-06,2,Long wait and rude staff.
+REV-20251006-00402,2025-10-06,5,Perfect morning pick-me-up.
+REV-20251006-00403,2025-10-06,4,
+REV-20251006-00404,2025-10-06,3,Nothing special.
+REV-20251006-00405,2025-10-06,5,Loved the latte art.
+REV-20251006-00406,2025-10-06,4,Quality beans and smooth brew.
+REV-20251006-00407,2025-10-06,3,It was okay.
+REV-20251006-00408,2025-10-06,2,Found a hair in my sandwich.
+REV-20251006-00409,2025-10-06,4,Great coffee and friendly staff!
+REV-20251006-00410,2025-10-06,5,Cozy place to work.
+REV-20251006-00411,2025-10-06,5,Quality beans and smooth brew.
+REV-20251006-00412,2025-10-06,1,"Cold coffee, disappointed."
+REV-20251006-00413,2025-10-06,3,Service was a bit slow today.
+REV-20251006-00414,2025-10-06,4,
+REV-20251006-00415,2025-10-06,4,Quality beans and smooth brew.
+REV-20251006-00416,2025-10-06,5,Cozy place to work.
+REV-20251007-00417,2025-10-07,4,Great coffee and friendly staff!
+REV-20251007-00418,2025-10-07,4,Loved the latte art.
+REV-20251007-00419,2025-10-07,1,Found a hair in my sandwich.
+REV-20251007-00420,2025-10-07,4,Perfect morning pick-me-up.
+REV-20251007-00421,2025-10-07,3,Coffee was fine.
+REV-20251007-00422,2025-10-07,1,Not as fresh as usual.
+REV-20251007-00423,2025-10-07,5,Quality beans and smooth brew.
+REV-20251007-00424,2025-10-07,4,Quality beans and smooth brew.
+REV-20251007-00425,2025-10-07,4,Loved the latte art.
+REV-20251007-00426,2025-10-07,5,Perfect morning pick-me-up.
+REV-20251007-00427,2025-10-07,5,Fast service and delicious pastry.
+REV-20251008-00428,2025-10-08,1,Long wait and rude staff.
+REV-20251008-00429,2025-10-08,2,Long wait and rude staff.
+REV-20251008-00430,2025-10-08,1,Long wait and rude staff.
+REV-20251008-00431,2025-10-08,5,
+REV-20251008-00432,2025-10-08,1,Found a hair in my sandwich.
+REV-20251008-00433,2025-10-08,5,Loved the latte art.
+REV-20251008-00434,2025-10-08,1,Long wait and rude staff.
+REV-20251008-00435,2025-10-08,4,
+REV-20251008-00436,2025-10-08,4,Quality beans and smooth brew.
+REV-20251008-00437,2025-10-08,3,Nothing special.
+REV-20251008-00438,2025-10-08,3,Average experience.
+REV-20251008-00439,2025-10-08,5,Fast service and delicious pastry.
+REV-20251008-00440,2025-10-08,3,
+REV-20251008-00441,2025-10-08,3,Coffee was fine.
+REV-20251008-00442,2025-10-08,5,Fast service and delicious pastry.
+REV-20251009-00443,2025-10-09,3,Nothing special.
+REV-20251009-00444,2025-10-09,3,Nothing special.
+REV-20251009-00445,2025-10-09,5,Loved the latte art.
+REV-20251009-00446,2025-10-09,5,
+REV-20251009-00447,2025-10-09,3,Average experience.
+REV-20251009-00448,2025-10-09,4,Great coffee and friendly staff!
+REV-20251009-00449,2025-10-09,4,Cozy place to work.
+REV-20251009-00450,2025-10-09,4,Quality beans and smooth brew.
+REV-20251009-00451,2025-10-09,1,Long wait and rude staff.
+REV-20251009-00452,2025-10-09,1,"Cold coffee, disappointed."
+REV-20251009-00453,2025-10-09,3,It was okay.
+REV-20251010-00454,2025-10-10,2,Found a hair in my sandwich.
+REV-20251010-00455,2025-10-10,1,Long wait and rude staff.
+REV-20251010-00456,2025-10-10,4,Quality beans and smooth brew.
+REV-20251010-00457,2025-10-10,3,Service was a bit slow today.
+REV-20251010-00458,2025-10-10,4,Great coffee and friendly staff!
+REV-20251010-00459,2025-10-10,3,
+REV-20251010-00460,2025-10-10,3,Service was a bit slow today.
+REV-20251010-00461,2025-10-10,1,"Cold coffee, disappointed."
+REV-20251010-00462,2025-10-10,1,Long wait and rude staff.
+REV-20251010-00463,2025-10-10,3,Average experience.
+REV-20251010-00464,2025-10-10,4,Loved the latte art.
+REV-20251010-00465,2025-10-10,4,Fast service and delicious pastry.
+REV-20251010-00466,2025-10-10,5,Perfect morning pick-me-up.
+REV-20251010-00467,2025-10-10,3,Service was a bit slow today.
+REV-20251010-00468,2025-10-10,4,Great coffee and friendly staff!
+REV-20251010-00469,2025-10-10,5,Great coffee and friendly staff!
+REV-20251010-00470,2025-10-10,5,Quality beans and smooth brew.
+REV-20251010-00471,2025-10-10,5,Perfect morning pick-me-up.
+REV-20251010-00472,2025-10-10,4,Cozy place to work.
+REV-20251011-00473,2025-10-11,4,
+REV-20251011-00474,2025-10-11,4,Cozy place to work.
+REV-20251011-00475,2025-10-11,5,Great coffee and friendly staff!
+REV-20251011-00476,2025-10-11,4,
+REV-20251011-00477,2025-10-11,2,Long wait and rude staff.
+REV-20251011-00478,2025-10-11,3,Nothing special.
+REV-20251011-00479,2025-10-11,5,Quality beans and smooth brew.
+REV-20251011-00480,2025-10-11,3,
+REV-20251011-00481,2025-10-11,2,"Cold coffee, disappointed."
+REV-20251011-00482,2025-10-11,1,
+REV-20251011-00483,2025-10-11,4,Quality beans and smooth brew.
+REV-20251011-00484,2025-10-11,2,Found a hair in my sandwich.
+REV-20251011-00485,2025-10-11,5,Quality beans and smooth brew.
+REV-20251011-00486,2025-10-11,4,Loved the latte art.
+REV-20251011-00487,2025-10-11,4,
+REV-20251011-00488,2025-10-11,1,Long wait and rude staff.
+REV-20251011-00489,2025-10-11,4,Quality beans and smooth brew.
+REV-20251011-00490,2025-10-11,5,Great coffee and friendly staff!
+REV-20251011-00491,2025-10-11,2,Long wait and rude staff.
+REV-20251011-00492,2025-10-11,3,Coffee was fine.
+REV-20251011-00493,2025-10-11,4,Loved the latte art.
+REV-20251011-00494,2025-10-11,4,Great coffee and friendly staff!
+REV-20251011-00495,2025-10-11,4,
+REV-20251011-00496,2025-10-11,4,Fast service and delicious pastry.
+REV-20251011-00497,2025-10-11,5,Loved the latte art.
+REV-20251012-00498,2025-10-12,2,Overpriced for the portion.
+REV-20251012-00499,2025-10-12,1,
+REV-20251012-00500,2025-10-12,4,
+REV-20251012-00501,2025-10-12,2,"Cold coffee, disappointed."
+REV-20251012-00502,2025-10-12,3,Coffee was fine.
+REV-20251012-00503,2025-10-12,4,Fast service and delicious pastry.
+REV-20251012-00504,2025-10-12,5,Fast service and delicious pastry.
+REV-20251012-00505,2025-10-12,2,Overpriced for the portion.
+REV-20251012-00506,2025-10-12,4,Loved the latte art.
+REV-20251012-00507,2025-10-12,5,Quality beans and smooth brew.
+REV-20251012-00508,2025-10-12,1,Long wait and rude staff.
+REV-20251012-00509,2025-10-12,5,Great coffee and friendly staff!
+REV-20251012-00510,2025-10-12,2,Not as fresh as usual.
+REV-20251012-00511,2025-10-12,4,Cozy place to work.
+REV-20251012-00512,2025-10-12,3,Service was a bit slow today.
+REV-20251012-00513,2025-10-12,4,
+REV-20251012-00514,2025-10-12,5,Perfect morning pick-me-up.
+REV-20251012-00515,2025-10-12,5,Perfect morning pick-me-up.
+REV-20251012-00516,2025-10-12,5,Loved the latte art.
+REV-20251012-00517,2025-10-12,4,Fast service and delicious pastry.
+REV-20251012-00518,2025-10-12,4,
+REV-20251013-00519,2025-10-13,4,Perfect morning pick-me-up.
+REV-20251013-00520,2025-10-13,5,
+REV-20251013-00521,2025-10-13,5,Great coffee and friendly staff!
+REV-20251013-00522,2025-10-13,5,Great coffee and friendly staff!
+REV-20251013-00523,2025-10-13,4,
+REV-20251013-00524,2025-10-13,4,Fast service and delicious pastry.
+REV-20251013-00525,2025-10-13,5,Cozy place to work.
+REV-20251013-00526,2025-10-13,2,Not as fresh as usual.
+REV-20251013-00527,2025-10-13,5,
+REV-20251013-00528,2025-10-13,3,Nothing special.
+REV-20251013-00529,2025-10-13,3,
+REV-20251013-00530,2025-10-13,5,Loved the latte art.
+REV-20251013-00531,2025-10-13,1,"Cold coffee, disappointed."
+REV-20251013-00532,2025-10-13,5,Cozy place to work.
+REV-20251013-00533,2025-10-13,2,Found a hair in my sandwich.
+REV-20251013-00534,2025-10-13,2,
+REV-20251013-00535,2025-10-13,5,
+REV-20251013-00536,2025-10-13,3,Coffee was fine.
+REV-20251013-00537,2025-10-13,3,Coffee was fine.
+REV-20251013-00538,2025-10-13,4,Loved the latte art.
+REV-20251013-00539,2025-10-13,2,
+REV-20251013-00540,2025-10-13,4,Great coffee and friendly staff!
+REV-20251013-00541,2025-10-13,1,Overpriced for the portion.
+REV-20251013-00542,2025-10-13,2,Found a hair in my sandwich.
+REV-20251014-00543,2025-10-14,1,"Cold coffee, disappointed."
+REV-20251014-00544,2025-10-14,1,Long wait and rude staff.
+REV-20251014-00545,2025-10-14,4,
+REV-20251014-00546,2025-10-14,4,Loved the latte art.
+REV-20251014-00547,2025-10-14,5,Loved the latte art.
+REV-20251014-00548,2025-10-14,4,Great coffee and friendly staff!
+REV-20251014-00549,2025-10-14,4,Great coffee and friendly staff!
+REV-20251014-00550,2025-10-14,4,
+REV-20251014-00551,2025-10-14,4,Quality beans and smooth brew.
+REV-20251014-00552,2025-10-14,2,Found a hair in my sandwich.
+REV-20251014-00553,2025-10-14,5,Fast service and delicious pastry.
+REV-20251014-00554,2025-10-14,4,Fast service and delicious pastry.
+REV-20251014-00555,2025-10-14,5,Quality beans and smooth brew.
+REV-20251014-00556,2025-10-14,2,Not as fresh as usual.
+REV-20251014-00557,2025-10-14,2,Not as fresh as usual.
+REV-20251014-00558,2025-10-14,2,
+REV-20251014-00559,2025-10-14,3,Average experience.
+REV-20251014-00560,2025-10-14,5,Great coffee and friendly staff!
+REV-20251014-00561,2025-10-14,2,"Cold coffee, disappointed."
+REV-20251015-00562,2025-10-15,5,Quality beans and smooth brew.
+REV-20251015-00563,2025-10-15,3,Service was a bit slow today.
+REV-20251015-00564,2025-10-15,4,Cozy place to work.
+REV-20251015-00565,2025-10-15,4,Great coffee and friendly staff!
+REV-20251015-00566,2025-10-15,5,
+REV-20251015-00567,2025-10-15,2,Found a hair in my sandwich.
+REV-20251015-00568,2025-10-15,2,"Cold coffee, disappointed."
+REV-20251015-00569,2025-10-15,4,Fast service and delicious pastry.
+REV-20251015-00570,2025-10-15,4,
+REV-20251015-00571,2025-10-15,2,"Cold coffee, disappointed."
+REV-20251015-00572,2025-10-15,2,Overpriced for the portion.
+REV-20251015-00573,2025-10-15,5,Great coffee and friendly staff!
+REV-20251015-00574,2025-10-15,4,
+REV-20251015-00575,2025-10-15,4,Quality beans and smooth brew.
+REV-20251015-00576,2025-10-15,1,
+REV-20251015-00577,2025-10-15,4,Cozy place to work.
+REV-20251015-00578,2025-10-15,5,Perfect morning pick-me-up.
+REV-20251015-00579,2025-10-15,5,Quality beans and smooth brew.
+REV-20251015-00580,2025-10-15,4,Loved the latte art.
+REV-20251015-00581,2025-10-15,5,Loved the latte art.
+REV-20251016-00582,2025-10-16,5,Fast service and delicious pastry.
+REV-20251016-00583,2025-10-16,1,"Cold coffee, disappointed."
+REV-20251016-00584,2025-10-16,3,Coffee was fine.
+REV-20251016-00585,2025-10-16,4,Great coffee and friendly staff!
+REV-20251016-00586,2025-10-16,5,Loved the latte art.
+REV-20251016-00587,2025-10-16,4,Loved the latte art.
+REV-20251016-00588,2025-10-16,2,Not as fresh as usual.
+REV-20251016-00589,2025-10-16,2,Found a hair in my sandwich.
+REV-20251016-00590,2025-10-16,4,
+REV-20251016-00591,2025-10-16,5,Loved the latte art.
+REV-20251016-00592,2025-10-16,3,
+REV-20251016-00593,2025-10-16,3,Nothing special.
+REV-20251016-00594,2025-10-16,5,Loved the latte art.
+REV-20251016-00595,2025-10-16,1,Not as fresh as usual.
+REV-20251016-00596,2025-10-16,3,
+REV-20251017-00597,2025-10-17,2,Overpriced for the portion.
+REV-20251017-00598,2025-10-17,4,Fast service and delicious pastry.
+REV-20251017-00599,2025-10-17,2,Long wait and rude staff.
+REV-20251017-00600,2025-10-17,5,Loved the latte art.
+REV-20251017-00601,2025-10-17,3,
+REV-20251017-00602,2025-10-17,4,Loved the latte art.
+REV-20251017-00603,2025-10-17,5,Quality beans and smooth brew.
+REV-20251017-00604,2025-10-17,5,Cozy place to work.
+REV-20251017-00605,2025-10-17,2,Found a hair in my sandwich.
+REV-20251017-00606,2025-10-17,3,Average experience.
+REV-20251017-00607,2025-10-17,1,Overpriced for the portion.
+REV-20251017-00608,2025-10-17,3,It was okay.
+REV-20251017-00609,2025-10-17,4,Perfect morning pick-me-up.
+REV-20251017-00610,2025-10-17,4,Quality beans and smooth brew.
+REV-20251017-00611,2025-10-17,5,
+REV-20251017-00612,2025-10-17,1,Found a hair in my sandwich.
+REV-20251017-00613,2025-10-17,5,Loved the latte art.
+REV-20251017-00614,2025-10-17,4,Cozy place to work.
+REV-20251017-00615,2025-10-17,5,Cozy place to work.
+REV-20251017-00616,2025-10-17,5,Great coffee and friendly staff!
+REV-20251018-00617,2025-10-18,1,Overpriced for the portion.
+REV-20251018-00618,2025-10-18,4,
+REV-20251018-00619,2025-10-18,1,Found a hair in my sandwich.
+REV-20251018-00620,2025-10-18,5,
+REV-20251018-00621,2025-10-18,1,Found a hair in my sandwich.
+REV-20251018-00622,2025-10-18,4,
+REV-20251018-00623,2025-10-18,4,Quality beans and smooth brew.
+REV-20251018-00624,2025-10-18,1,Not as fresh as usual.
+REV-20251018-00625,2025-10-18,5,Perfect morning pick-me-up.
+REV-20251018-00626,2025-10-18,5,Loved the latte art.
+REV-20251019-00627,2025-10-19,4,Loved the latte art.
+REV-20251019-00628,2025-10-19,4,
+REV-20251019-00629,2025-10-19,4,Great coffee and friendly staff!
+REV-20251019-00630,2025-10-19,3,
+REV-20251019-00631,2025-10-19,4,Quality beans and smooth brew.
+REV-20251019-00632,2025-10-19,5,Cozy place to work.
+REV-20251019-00633,2025-10-19,4,Fast service and delicious pastry.
+REV-20251019-00634,2025-10-19,1,Found a hair in my sandwich.
+REV-20251019-00635,2025-10-19,2,Long wait and rude staff.
+REV-20251019-00636,2025-10-19,4,Fast service and delicious pastry.
+REV-20251019-00637,2025-10-19,4,Cozy place to work.
+REV-20251019-00638,2025-10-19,5,Great coffee and friendly staff!
+REV-20251019-00639,2025-10-19,2,Overpriced for the portion.
+REV-20251020-00640,2025-10-20,4,Quality beans and smooth brew.
+REV-20251020-00641,2025-10-20,2,Not as fresh as usual.
+REV-20251020-00642,2025-10-20,3,Nothing special.
+REV-20251020-00643,2025-10-20,3,Nothing special.
+REV-20251020-00644,2025-10-20,4,Perfect morning pick-me-up.
+REV-20251020-00645,2025-10-20,5,Great coffee and friendly staff!
+REV-20251020-00646,2025-10-20,2,Overpriced for the portion.
+REV-20251020-00647,2025-10-20,3,It was okay.
+REV-20251020-00648,2025-10-20,2,"Cold coffee, disappointed."
+REV-20251020-00649,2025-10-20,1,
+REV-20251020-00650,2025-10-20,4,Fast service and delicious pastry.
+REV-20251020-00651,2025-10-20,1,Long wait and rude staff.
+REV-20251020-00652,2025-10-20,3,Average experience.
+REV-20251020-00653,2025-10-20,1,"Cold coffee, disappointed."
+REV-20251020-00654,2025-10-20,3,
+REV-20251020-00655,2025-10-20,2,Long wait and rude staff.
+REV-20251020-00656,2025-10-20,1,Long wait and rude staff.
+REV-20251021-00657,2025-10-21,2,Found a hair in my sandwich.
+REV-20251021-00658,2025-10-21,4,
+REV-20251021-00659,2025-10-21,4,Perfect morning pick-me-up.
+REV-20251021-00660,2025-10-21,4,Cozy place to work.
+REV-20251021-00661,2025-10-21,3,Service was a bit slow today.
+REV-20251021-00662,2025-10-21,4,
+REV-20251021-00663,2025-10-21,4,Perfect morning pick-me-up.
+REV-20251021-00664,2025-10-21,4,Loved the latte art.
+REV-20251021-00665,2025-10-21,5,Fast service and delicious pastry.
+REV-20251021-00666,2025-10-21,5,Great coffee and friendly staff!
+REV-20251021-00667,2025-10-21,4,
+REV-20251022-00668,2025-10-22,1,Found a hair in my sandwich.
+REV-20251022-00669,2025-10-22,5,Quality beans and smooth brew.
+REV-20251022-00670,2025-10-22,3,Average experience.
+REV-20251022-00671,2025-10-22,4,Loved the latte art.
+REV-20251022-00672,2025-10-22,5,Cozy place to work.
+REV-20251022-00673,2025-10-22,4,Quality beans and smooth brew.
+REV-20251022-00674,2025-10-22,3,Service was a bit slow today.
+REV-20251022-00675,2025-10-22,5,Quality beans and smooth brew.
+REV-20251022-00676,2025-10-22,1,Long wait and rude staff.
+REV-20251022-00677,2025-10-22,3,
+REV-20251022-00678,2025-10-22,1,Found a hair in my sandwich.
+REV-20251023-00679,2025-10-23,4,Quality beans and smooth brew.
+REV-20251023-00680,2025-10-23,4,
+REV-20251023-00681,2025-10-23,5,Cozy place to work.
+REV-20251023-00682,2025-10-23,4,Quality beans and smooth brew.
+REV-20251023-00683,2025-10-23,2,Long wait and rude staff.
+REV-20251023-00684,2025-10-23,4,Cozy place to work.
+REV-20251023-00685,2025-10-23,3,
+REV-20251023-00686,2025-10-23,4,Quality beans and smooth brew.
+REV-20251023-00687,2025-10-23,4,Quality beans and smooth brew.
+REV-20251023-00688,2025-10-23,1,"Cold coffee, disappointed."
+REV-20251023-00689,2025-10-23,5,Quality beans and smooth brew.
+REV-20251023-00690,2025-10-23,3,Service was a bit slow today.
+REV-20251023-00691,2025-10-23,4,Perfect morning pick-me-up.
+REV-20251023-00692,2025-10-23,3,It was okay.
+REV-20251023-00693,2025-10-23,5,
+REV-20251023-00694,2025-10-23,4,Cozy place to work.
+REV-20251023-00695,2025-10-23,2,Not as fresh as usual.
+REV-20251023-00696,2025-10-23,2,
+REV-20251023-00697,2025-10-23,4,Perfect morning pick-me-up.
+REV-20251024-00698,2025-10-24,2,Found a hair in my sandwich.
+REV-20251024-00699,2025-10-24,3,Nothing special.
+REV-20251024-00700,2025-10-24,5,Great coffee and friendly staff!
+REV-20251024-00701,2025-10-24,5,Cozy place to work.
+REV-20251024-00702,2025-10-24,2,"Cold coffee, disappointed."
+REV-20251024-00703,2025-10-24,3,
+REV-20251024-00704,2025-10-24,3,Coffee was fine.
+REV-20251024-00705,2025-10-24,4,Cozy place to work.
+REV-20251024-00706,2025-10-24,2,Long wait and rude staff.
+REV-20251024-00707,2025-10-24,3,Coffee was fine.
+REV-20251024-00708,2025-10-24,4,Great coffee and friendly staff!
+REV-20251024-00709,2025-10-24,3,Average experience.
+REV-20251025-00710,2025-10-25,5,Great coffee and friendly staff!
+REV-20251025-00711,2025-10-25,2,Found a hair in my sandwich.
+REV-20251025-00712,2025-10-25,3,Service was a bit slow today.
+REV-20251025-00713,2025-10-25,4,Quality beans and smooth brew.
+REV-20251025-00714,2025-10-25,4,Fast service and delicious pastry.
+REV-20251025-00715,2025-10-25,5,Quality beans and smooth brew.
+REV-20251025-00716,2025-10-25,3,
+REV-20251025-00717,2025-10-25,4,
+REV-20251025-00718,2025-10-25,4,Perfect morning pick-me-up.
+REV-20251025-00719,2025-10-25,3,It was okay.
+REV-20251025-00720,2025-10-25,2,Long wait and rude staff.
+REV-20251025-00721,2025-10-25,5,
+REV-20251025-00722,2025-10-25,2,"Cold coffee, disappointed."
+REV-20251025-00723,2025-10-25,2,"Cold coffee, disappointed."
+REV-20251025-00724,2025-10-25,3,Average experience.
+REV-20251025-00725,2025-10-25,5,
+REV-20251025-00726,2025-10-25,4,
+REV-20251025-00727,2025-10-25,4,Cozy place to work.
+REV-20251025-00728,2025-10-25,2,Found a hair in my sandwich.
+REV-20251025-00729,2025-10-25,4,Quality beans and smooth brew.
+REV-20251025-00730,2025-10-25,3,It was okay.
+REV-20251025-00731,2025-10-25,2,Overpriced for the portion.
+REV-20251025-00732,2025-10-25,5,Quality beans and smooth brew.
+REV-20251026-00733,2025-10-26,3,It was okay.
+REV-20251026-00734,2025-10-26,4,Cozy place to work.
+REV-20251026-00735,2025-10-26,1,Found a hair in my sandwich.
+REV-20251026-00736,2025-10-26,5,Loved the latte art.
+REV-20251026-00737,2025-10-26,3,Average experience.
+REV-20251026-00738,2025-10-26,4,Fast service and delicious pastry.
+REV-20251026-00739,2025-10-26,3,
+REV-20251026-00740,2025-10-26,2,Not as fresh as usual.
+REV-20251026-00741,2025-10-26,5,Cozy place to work.
+REV-20251026-00742,2025-10-26,2,"Cold coffee, disappointed."
