@@ -1,20 +1,29 @@
 """
-    ETL to extract sales_wholesale.csv and group by month & product id,
-    calculated total Total_ordered_boxes, boxes sold, and Needed_boxes per month and exported to csv file.
+ETL script for the Under Transferred Boxes job.
+
+This job extracts data from sales_wholesale.csv, applies transformations to
+calculate monthly total ordered boxes, boxes sold, and under-transferred quantity
+(i.e., boxes ordered but not sold). The transformed data is then exported to a CSV
+file for reporting.
 """
 
-import warnings
+from models import extract, transform, load
 
-from models.extract import extract
-from models.transform import transform
-from models.load import load
 
-# Ignore all warnings
-warnings.filterwarnings("ignore")
+def main():
+    """
+    Run the Under Transferred Boxes ETL pipeline.
 
-data = extract(w_path="C:/Users/Bk/PycharmProjects/etl-processing-engine-anwar-store/data/sales_wholesale.csv",
-                   #s_path="C:/Users/Bk/PycharmProjects/etl-processing-engine-anwar-store/data/stock_movement.csv",
-              # p_path="C:/Users/Bk/PycharmProjects/etl-processing-engine-anwar-store/data/products.csv"
-               )
-tdf = transform(data)
-load = load(tdf)
+    - Extracts wholesale sales data from CSV.
+    - Transforms the data to compute monthly ordered boxes, sold boxes,
+      and under-transferred quantities.
+    - Loads the final processed data into an output CSV.
+
+    :return: None
+    """
+    data = extract(ws_path="data/sales_wholesale.csv", date_col="order_date")
+    tdf = transform(data)
+    load(tdf)
+
+if __name__ == "__main__":
+    main()
