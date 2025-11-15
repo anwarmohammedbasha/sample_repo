@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-29-0,2025-10-29,5,150.73,Smith-Garcia,1
+exp-2025-10-29-1,2025-10-29,2,1038.01,Price Inc,3
+exp-2025-10-29-2,2025-10-29,2,1803.26,"Christensen, Smith and Stephens",4
+exp-2025-10-29-3,2025-10-29,2,76.01,"Joseph, Ray and Harrison",4
+exp-2025-10-29-4,2025-10-29,3,1667.32,"Nguyen, Glover and Lewis",2
+exp-2025-10-29-5,2025-10-29,2,300.37,Freeman-Clayton,5
+exp-2025-10-29-6,2025-10-29,2,120.67,Green PLC,3

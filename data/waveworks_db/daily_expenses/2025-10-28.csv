@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-28-0,2025-10-28,2,1180.1,Williams-Taylor,5
+exp-2025-10-28-1,2025-10-28,2,438.52,Nelson-Cortez,4
+exp-2025-10-28-2,2025-10-28,4,1116.4,Smith-Kline,4
+exp-2025-10-28-3,2025-10-28,4,1225.72,Webster PLC,4
+exp-2025-10-28-4,2025-10-28,1,609.2,Murphy-Sanders,5
+exp-2025-10-28-5,2025-10-28,2,107.22,Larsen-Rose,3
+exp-2025-10-28-6,2025-10-28,5,1628.07,Wells LLC,2
+exp-2025-10-28-7,2025-10-28,5,1060.48,Hill-Griffin,5
+exp-2025-10-28-8,2025-10-28,1,317.97,"Brown, Jackson and Johnson",1
+exp-2025-10-28-9,2025-10-28,1,18.79,Harris-Barnes,3
+exp-2025-10-28-10,2025-10-28,1,1308.22,"Gray, Marshall and Beasley",4
+exp-2025-10-28-11,2025-10-28,4,302.12,Johnson-Leonard,1
+exp-2025-10-28-12,2025-10-28,3,1484.97,"Craig, Zavala and Rodriguez",1

@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-12-0,2025-11-12,4,758.36,"Pierce, Alvarado and Hernandez",2
+exp-2025-11-12-1,2025-11-12,3,339.02,"Munoz, Johnson and Beck",2
+exp-2025-11-12-2,2025-11-12,5,1866.77,Green PLC,5
+exp-2025-11-12-3,2025-11-12,3,653.45,Harding Inc,2
+exp-2025-11-12-4,2025-11-12,2,53.17,Cross-Davis,1
+exp-2025-11-12-5,2025-11-12,1,852.33,"Bryant, Pierce and Moody",2
+exp-2025-11-12-6,2025-11-12,5,565.01,Fleming Group,3
+exp-2025-11-12-7,2025-11-12,4,1323.09,Bond Inc,5
+exp-2025-11-12-8,2025-11-12,2,890.01,Smith-Hamilton,4
+exp-2025-11-12-9,2025-11-12,3,1641.56,"French, Thompson and Gomez",3
+exp-2025-11-12-10,2025-11-12,3,1383.19,"Stewart, Ruiz and Macias",4
+exp-2025-11-12-11,2025-11-12,1,1830.53,Martinez PLC,4
+exp-2025-11-12-12,2025-11-12,5,1382.56,"Bradley, Hernandez and Scott",2
+exp-2025-11-12-13,2025-11-12,5,1919.2,"Reyes, Tate and Morgan",1
+exp-2025-11-12-14,2025-11-12,4,1579.32,Klein PLC,2

@@ -1,0 +1,67 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-04-0,2025-11-04T01:41:00,161,"268 Sharp Dam Apt. 988
+Gregoryfurt, IL 61143","[{'product_id': 50, 'qty': 2}]"
+ec-2025-11-04-1,2025-11-04T04:12:00,27,"59002 Robert Stream Apt. 183
+Kevinchester, KS 40920","[{'product_id': 22, 'qty': 2}]"
+ec-2025-11-04-2,2025-11-04T21:37:00,4,"80942 Young Trail Suite 127
+New Taylormouth, NY 17234","[{'product_id': 26, 'qty': 2}, {'product_id': 18, 'qty': 1}, {'product_id': 11, 'qty': 1}]"
+ec-2025-11-04-3,2025-11-04T13:42:00,170,"Unit 7864 Box 6956
+DPO AP 55811","[{'product_id': 10, 'qty': 1}, {'product_id': 12, 'qty': 3}]"
+ec-2025-11-04-4,2025-11-04T13:55:00,155,"7501 Diana Row Suite 210
+Kevinville, MD 19673","[{'product_id': 41, 'qty': 3}]"
+ec-2025-11-04-5,2025-11-04T19:08:00,5,"6920 Robin Centers Apt. 746
+Larryburgh, KS 85330","[{'product_id': 1, 'qty': 2}]"
+ec-2025-11-04-6,2025-11-04T06:40:00,6,"888 Rhodes Causeway
+South Joshua, OH 61586","[{'product_id': 12, 'qty': 1}, {'product_id': 25, 'qty': 1}]"
+ec-2025-11-04-7,2025-11-04T08:51:00,180,"45541 Timothy Groves
+North Janice, IL 10269","[{'product_id': 24, 'qty': 1}, {'product_id': 16, 'qty': 1}]"
+ec-2025-11-04-8,2025-11-04T21:40:00,74,"497 Barrett Greens Apt. 038
+Port Matthewville, NV 01994","[{'product_id': 21, 'qty': 2}, {'product_id': 32, 'qty': 3}, {'product_id': 42, 'qty': 1}]"
+ec-2025-11-04-9,2025-11-04T09:27:00,79,"3025 King Ways Suite 427
+Mccallberg, WI 21267","[{'product_id': 39, 'qty': 1}, {'product_id': 50, 'qty': 2}, {'product_id': 32, 'qty': 1}]"
+ec-2025-11-04-10,2025-11-04T18:31:00,127,"766 Chan Springs Suite 634
+East Jordan, OK 77495","[{'product_id': 42, 'qty': 3}, {'product_id': 20, 'qty': 1}]"
+ec-2025-11-04-11,2025-11-04T08:40:00,85,"948 Tara Turnpike Apt. 860
+Lake Stephanie, GA 53495","[{'product_id': 25, 'qty': 2}, {'product_id': 42, 'qty': 1}]"
+ec-2025-11-04-12,2025-11-04T18:18:00,170,"624 Lowery Throughway Apt. 870
+Williamsonburgh, MD 48533","[{'product_id': 33, 'qty': 2}, {'product_id': 13, 'qty': 1}]"
+ec-2025-11-04-13,2025-11-04T17:17:00,51,"465 Coleman Streets Suite 945
+Aliciaberg, AR 81558","[{'product_id': 48, 'qty': 1}, {'product_id': 15, 'qty': 1}, {'product_id': 42, 'qty': 1}]"
+ec-2025-11-04-14,2025-11-04T18:40:00,110,"84876 Jesse Haven Suite 363
+Dustinmouth, AS 55836","[{'product_id': 32, 'qty': 2}, {'product_id': 20, 'qty': 4}]"
+ec-2025-11-04-15,2025-11-04T17:40:00,81,"65511 Alexandria Terrace
+North Joshuastad, WV 81361","[{'product_id': 43, 'qty': 2}]"
+ec-2025-11-04-16,2025-11-04T17:54:00,121,,"[{'product_id': 39, 'qty': 1}, {'product_id': 19, 'qty': 2}, {'product_id': 42, 'qty': 3}]"
+ec-2025-11-04-17,2025-11-04T13:56:00,198,"Unit 2662 Box 1130
+DPO AE 69470","[{'product_id': 14, 'qty': 1}, {'product_id': 20, 'qty': 1}, {'product_id': 16, 'qty': 3}]"
+ec-2025-11-04-18,2025-11-04T20:22:00,177,"743 Jennifer Forge Apt. 015
+Port Michelle, NV 80453","[{'product_id': 3, 'qty': 1}, {'product_id': 23, 'qty': 3}, {'product_id': 20, 'qty': 2}]"
+ec-2025-11-04-19,2025-11-04T10:53:00,16,"289 Ryan Brook
+Lake Darrellview, IN 10401","[{'product_id': 3, 'qty': 1}, {'product_id': 26, 'qty': 1}, {'product_id': 30, 'qty': 2}]"
+ec-2025-11-04-20,2025-11-04T01:44:00,118,"967 Julie Courts Suite 496
+North Kristen, GU 18464","[{'product_id': 49, 'qty': 3}]"
+ec-2025-11-04-21,2025-11-04T20:35:00,195,"198 Tami Centers
+West Dominiqueton, DC 75110","[{'product_id': 45, 'qty': 1}]"
+ec-2025-11-04-22,2025-11-04T16:43:00,37,"0254 Washington Mission
+Williamtown, CO 56471","[{'product_id': 21, 'qty': 2}, {'product_id': 18, 'qty': 1}, {'product_id': 43, 'qty': 1}]"
+ec-2025-11-04-23,2025-11-04T21:27:00,176,,"[{'product_id': 2, 'qty': 2}, {'product_id': 36, 'qty': 2}, {'product_id': 23, 'qty': 2}]"
+ec-2025-11-04-24,2025-11-04T04:31:00,177,"504 Amber Forest
+Powellbury, NJ 09720","[{'product_id': 20, 'qty': 2}]"
+ec-2025-11-04-25,2025-11-04T11:43:00,6,"PSC 7136, Box 5109
+APO AA 66966","[{'product_id': 7, 'qty': 1}, {'product_id': 5, 'qty': 2}, {'product_id': 9, 'qty': 3}]"
+ec-2025-11-04-26,2025-11-04T23:20:00,176,"141 Lauren Lights Apt. 288
+Lake Kimberly, MT 31070","[{'product_id': 15, 'qty': 1}]"
+ec-2025-11-04-27,2025-11-04T16:46:00,159,"Unit 4212 Box 5046
+DPO AA 13984","[{'product_id': 13, 'qty': 3}, {'product_id': 7, 'qty': 2}]"
+ec-2025-11-04-28,2025-11-04T03:48:00,37,"523 Gates Villages Apt. 557
+Jameshaven, CA 57015","[{'product_id': 37, 'qty': 5}, {'product_id': 11, 'qty': 2}]"
+ec-2025-11-04-29,2025-11-04T13:41:00,92,"0866 Fernandez Roads Suite 304
+Lake Robertchester, MP 38617","[{'product_id': 17, 'qty': 2}, {'product_id': 44, 'qty': 2}]"
+ec-2025-11-04-30,2025-11-04T12:58:00,47,"9719 Timothy Corner
+New Alicia, TN 42988","[{'product_id': 8, 'qty': 1}, {'product_id': 32, 'qty': 1}]"
+ec-2025-11-04-31,2025-11-04T07:37:00,136,"98284 Williams Run Suite 234
+Port Brian, VT 30456","[{'product_id': 44, 'qty': 1}, {'product_id': 6, 'qty': 2}, {'product_id': 17, 'qty': 1}]"
+ec-2025-11-04-32,2025-11-04T01:23:00,155,"686 Dustin Street Apt. 293
+Hancockmouth, SC 78966","[{'product_id': 6, 'qty': 1}, {'product_id': 38, 'qty': 2}, {'product_id': 31, 'qty': 2}]"
+ec-2025-11-04-33,2025-11-04T22:43:00,78,"686 Nathan Stream Apt. 531
+Martinezton, MI 19854","[{'product_id': 21, 'qty': 2}, {'product_id': 30, 'qty': 1}]"

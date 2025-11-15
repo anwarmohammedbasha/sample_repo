@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-31-0,2025-10-31,3,499.55,Reid-Chen,4
+exp-2025-10-31-1,2025-10-31,5,822.9,Hogan Inc,5
+exp-2025-10-31-2,2025-10-31,4,1148.02,Medina-Chang,2
+exp-2025-10-31-3,2025-10-31,3,850.33,Tyler-Freeman,2
+exp-2025-10-31-4,2025-10-31,3,986.6,Chavez LLC,2
+exp-2025-10-31-5,2025-10-31,3,458.82,Tapia-Dean,2
+exp-2025-10-31-6,2025-10-31,4,1324.35,Rosales and Sons,4
+exp-2025-10-31-7,2025-10-31,1,35.34,Gonzalez-Cunningham,4
+exp-2025-10-31-8,2025-10-31,2,1288.3,Moyer PLC,3
+exp-2025-10-31-9,2025-10-31,1,459.25,Russell-Young,5
+exp-2025-10-31-10,2025-10-31,2,1932.34,"Sutton, Jones and Herman",3
+exp-2025-10-31-11,2025-10-31,5,1490.98,Ellis-West,1
+exp-2025-10-31-12,2025-10-31,5,404.57,Blackwell Inc,2

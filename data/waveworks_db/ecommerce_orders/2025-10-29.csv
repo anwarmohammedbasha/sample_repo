@@ -1,0 +1,58 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-29-0,2025-10-29T20:54:00,54,"3923 Walker Terrace
+North Phillip, WV 41110","[{'product_id': 49, 'qty': 3}, {'product_id': 7, 'qty': 1}]"
+ec-2025-10-29-1,2025-10-29T16:45:00,169,"0880 Frank Corner
+Nguyenborough, VA 05029","[{'product_id': 32, 'qty': 1}, {'product_id': 22, 'qty': 2}, {'product_id': 14, 'qty': 2}]"
+ec-2025-10-29-2,2025-10-29T03:13:00,26,"8809 Deborah Rest Suite 508
+Hermanmouth, MT 71179","[{'product_id': 2, 'qty': 1}, {'product_id': 25, 'qty': 2}, {'product_id': 28, 'qty': 1}]"
+ec-2025-10-29-3,2025-10-29T13:24:00,75,"863 Johnson Summit Apt. 392
+Port Michael, GA 02748","[{'product_id': 15, 'qty': 2}, {'product_id': 10, 'qty': 1}]"
+ec-2025-10-29-4,2025-10-29T16:39:00,47,"28030 Evan Street Apt. 566
+New Scott, CO 08309","[{'product_id': 23, 'qty': 2}, {'product_id': 16, 'qty': 3}]"
+ec-2025-10-29-5,2025-10-29T16:41:00,94,"1633 Tapia Freeway
+Austinland, MI 38886","[{'product_id': 49, 'qty': 1}, {'product_id': 27, 'qty': 2}]"
+ec-2025-10-29-6,2025-10-29T08:52:00,136,"6964 Sandra Ford Suite 575
+Lake Amyborough, TX 48553","[{'product_id': 38, 'qty': 1}, {'product_id': 37, 'qty': 2}]"
+ec-2025-10-29-7,2025-10-29T09:49:00,182,"8016 Love Square Apt. 537
+Lake Andrewberg, PW 75393","[{'product_id': 2, 'qty': 1}]"
+ec-2025-10-29-8,2025-10-29T10:44:00,2,"79377 Delgado Ramp
+Lynchville, HI 38576","[{'product_id': 9, 'qty': 3}, {'product_id': 37, 'qty': 1}, {'product_id': 22, 'qty': 2}]"
+ec-2025-10-29-9,2025-10-29T03:44:00,37,"6430 Nathaniel Lakes Suite 300
+East Amberville, DE 53201","[{'product_id': 27, 'qty': 2}]"
+ec-2025-10-29-10,2025-10-29T14:15:00,183,"5873 Cole Ways Suite 039
+Port Molly, NY 55019","[{'product_id': 15, 'qty': 1}, {'product_id': 48, 'qty': 1}, {'product_id': 29, 'qty': 2}]"
+ec-2025-10-29-11,2025-10-29T19:56:00,56,"2356 David Land
+Patrickchester, NE 62059","[{'product_id': 9, 'qty': 3}, {'product_id': 20, 'qty': 2}]"
+ec-2025-10-29-12,2025-10-29T14:55:00,169,"0104 Kyle Mews Apt. 767
+South Larry, MS 01644","[{'product_id': 12, 'qty': 2}]"
+ec-2025-10-29-13,2025-10-29T16:50:00,119,"92467 Sarah Common Suite 067
+Wareberg, CA 33687","[{'product_id': 45, 'qty': 2}, {'product_id': 43, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-10-29-14,2025-10-29T16:49:00,186,"7720 Elizabeth Branch
+South Mark, VI 69716","[{'product_id': 24, 'qty': 2}]"
+ec-2025-10-29-15,2025-10-29T23:49:00,168,"951 Miller Pike Apt. 483
+Youngshire, TN 16083","[{'product_id': 14, 'qty': 2}]"
+ec-2025-10-29-16,2025-10-29T07:51:00,167,"0468 Randolph Islands Apt. 546
+Richardsonmouth, ID 07657","[{'product_id': 6, 'qty': 1}]"
+ec-2025-10-29-17,2025-10-29T04:54:00,199,"92964 Samantha Corners Apt. 137
+South Angela, GU 86415","[{'product_id': 42, 'qty': 3}, {'product_id': 47, 'qty': 3}]"
+ec-2025-10-29-18,2025-10-29T19:22:00,179,"796 Frazier Walks Apt. 801
+Luceromouth, VT 80176","[{'product_id': 5, 'qty': 1}, {'product_id': 46, 'qty': 3}]"
+ec-2025-10-29-19,2025-10-29T15:11:00,4,"473 Bowen Tunnel
+New Pamela, CO 18429","[{'product_id': 41, 'qty': 1}, {'product_id': 15, 'qty': 1}]"
+ec-2025-10-29-20,2025-10-29T17:45:00,110,"699 Rogers Keys Suite 320
+Timothybury, ND 16839","[{'product_id': 5, 'qty': 1}]"
+ec-2025-10-29-21,2025-10-29T04:43:00,39,,"[{'product_id': 47, 'qty': 1}]"
+ec-2025-10-29-22,2025-10-29T09:09:00,33,"935 Hodge Lake
+Dustinshire, NH 33284","[{'product_id': 50, 'qty': 1}, {'product_id': 35, 'qty': 2}]"
+ec-2025-10-29-23,2025-10-29T07:15:00,109,"947 Gary Street Apt. 707
+Johnland, CT 29512","[{'product_id': 37, 'qty': 5}, {'product_id': 25, 'qty': 3}, {'product_id': 11, 'qty': 2}]"
+ec-2025-10-29-24,2025-10-29T23:35:00,139,"7581 Karen Rest
+Salazarchester, MT 63530","[{'product_id': 47, 'qty': 1}, {'product_id': 14, 'qty': 1}]"
+ec-2025-10-29-25,2025-10-29T13:00:00,3,"16396 Walsh Ferry
+South Robertmouth, GU 51089","[{'product_id': 44, 'qty': 1}, {'product_id': 28, 'qty': 4}, {'product_id': 39, 'qty': 2}]"
+ec-2025-10-29-26,2025-10-29T12:38:00,108,"72729 Simon View
+Lake Sarahview, KY 32055","[{'product_id': 4, 'qty': 2}, {'product_id': 8, 'qty': 2}, {'product_id': 40, 'qty': 1}]"
+ec-2025-10-29-27,2025-10-29T12:36:00,196,"252 Smith Summit Suite 865
+Harrisview, DE 89621","[{'product_id': 14, 'qty': 1}, {'product_id': 1, 'qty': 3}, {'product_id': 5, 'qty': 2}]"
+ec-2025-10-29-28,2025-10-29T13:21:00,29,"3032 Amy Place
+New Stephaniestad, NH 23222","[{'product_id': 46, 'qty': 2}, {'product_id': 45, 'qty': 3}, {'product_id': 35, 'qty': 1}]"

@@ -1,0 +1,10 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-15-0,2025-10-15T14:40:00,41,,"[{'product_id': 16, 'qty': 1}]"
+ec-2025-10-15-1,2025-10-15T17:21:00,170,"86373 Kevin Route Suite 516
+Lynnton, VT 61846","[{'product_id': 26, 'qty': 1}, {'product_id': 17, 'qty': 3}, {'product_id': 19, 'qty': 1}]"
+ec-2025-10-15-2,2025-10-15T19:34:00,115,"Unit 4913 Box 4471
+DPO AP 99728","[{'product_id': 32, 'qty': 1}, {'product_id': 34, 'qty': 1}, {'product_id': 14, 'qty': 3}]"
+ec-2025-10-15-3,2025-10-15T19:28:00,174,"2597 Ronald Station Apt. 035
+Amandaburgh, FL 75948","[{'product_id': 35, 'qty': 1}, {'product_id': 46, 'qty': 1}, {'product_id': 5, 'qty': 5}]"
+ec-2025-10-15-4,2025-10-15T08:47:00,154,"135 Jessica Landing
+Tanyachester, MO 23899","[{'product_id': 28, 'qty': 3}, {'product_id': 21, 'qty': 2}, {'product_id': 21, 'qty': 2}]"

@@ -1,0 +1,9 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-24-0,2025-10-24,5,1364.13,"Warner, Short and Davenport",1
+exp-2025-10-24-1,2025-10-24,1,365.5,Thompson LLC,3
+exp-2025-10-24-2,2025-10-24,2,603.53,Adams PLC,3
+exp-2025-10-24-3,2025-10-24,2,410.78,Brown Ltd,1
+exp-2025-10-24-4,2025-10-24,2,1914.08,Miller-Robinson,2
+exp-2025-10-24-5,2025-10-24,1,373.45,"Cunningham, Johnson and Beck",5
+exp-2025-10-24-6,2025-10-24,4,816.09,Massey-Harper,1
+exp-2025-10-24-7,2025-10-24,2,1223.99,Landry and Sons,4

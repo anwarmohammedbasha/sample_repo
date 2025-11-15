@@ -1,0 +1,41 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-11-0,2025-11-11T06:18:00,188,"8460 Duran Turnpike Apt. 680
+Susanstad, OK 09982","[{'product_id': 20, 'qty': 1}, {'product_id': 1, 'qty': 3}]"
+ec-2025-11-11-1,2025-11-11T22:08:00,80,"12644 Martinez Hills Suite 084
+Lake Sara, MN 64140","[{'product_id': 19, 'qty': 2}]"
+ec-2025-11-11-2,2025-11-11T18:52:00,70,"57220 Michelle Inlet Suite 019
+Lake Jeffery, MS 36961","[{'product_id': 2, 'qty': 2}, {'product_id': 49, 'qty': 2}, {'product_id': 24, 'qty': 3}]"
+ec-2025-11-11-3,2025-11-11T14:59:00,106,"0239 Brandon Loop Apt. 450
+Scottport, TX 85832","[{'product_id': 8, 'qty': 2}]"
+ec-2025-11-11-4,2025-11-11T22:48:00,189,"107 Evans Prairie Apt. 565
+New Daniel, ND 57484","[{'product_id': 5, 'qty': 3}, {'product_id': 18, 'qty': 1}, {'product_id': 1, 'qty': 1}]"
+ec-2025-11-11-5,2025-11-11T03:31:00,80,"73296 Espinoza Wall
+West Danielside, WA 55937","[{'product_id': 40, 'qty': 1}]"
+ec-2025-11-11-6,2025-11-11T18:24:00,159,"0939 Knight Rest Suite 184
+Lake Dakota, UT 42216","[{'product_id': 30, 'qty': 2}]"
+ec-2025-11-11-7,2025-11-11T21:43:00,35,"746 Christy Stravenue
+New Tonyburgh, IL 35026","[{'product_id': 6, 'qty': 2}, {'product_id': 44, 'qty': 1}]"
+ec-2025-11-11-8,2025-11-11T06:06:00,99,"66107 Paula Light
+Coreytown, CA 07101","[{'product_id': 50, 'qty': 1}, {'product_id': 5, 'qty': 2}, {'product_id': 25, 'qty': 2}]"
+ec-2025-11-11-9,2025-11-11T10:54:00,158,"44230 Jill Pines
+Williamshire, OR 40783","[{'product_id': 37, 'qty': 1}, {'product_id': 41, 'qty': 1}, {'product_id': 12, 'qty': 2}]"
+ec-2025-11-11-10,2025-11-11T13:01:00,111,"775 Compton Well
+South Michellebury, SC 87928","[{'product_id': 39, 'qty': 2}, {'product_id': 12, 'qty': 2}]"
+ec-2025-11-11-11,2025-11-11T07:58:00,60,"94264 Lauren Run Apt. 297
+Rossside, WV 39222","[{'product_id': 37, 'qty': 1}]"
+ec-2025-11-11-12,2025-11-11T08:32:00,24,"89733 Villa Camp Apt. 915
+New Elizabethshire, NH 60440","[{'product_id': 35, 'qty': 2}, {'product_id': 44, 'qty': 1}, {'product_id': 2, 'qty': 2}]"
+ec-2025-11-11-13,2025-11-11T10:25:00,33,"82752 Flores Road Apt. 495
+Ericborough, VT 09807","[{'product_id': 10, 'qty': 1}, {'product_id': 19, 'qty': 3}, {'product_id': 12, 'qty': 2}]"
+ec-2025-11-11-14,2025-11-11T17:29:00,191,"5747 Henry Roads Apt. 900
+Port Kaitlyn, DE 54498","[{'product_id': 13, 'qty': 2}, {'product_id': 34, 'qty': 2}]"
+ec-2025-11-11-15,2025-11-11T18:23:00,155,"416 Barnes Extensions
+New Timothyport, MI 19418","[{'product_id': 17, 'qty': 2}]"
+ec-2025-11-11-16,2025-11-11T17:58:00,98,"131 Rogers Junctions Suite 727
+South Joshua, NJ 46971","[{'product_id': 17, 'qty': 2}, {'product_id': 47, 'qty': 3}, {'product_id': 24, 'qty': 2}]"
+ec-2025-11-11-17,2025-11-11T09:49:00,45,"3194 Haley Pine Suite 696
+Lake Kevin, ME 80102","[{'product_id': 36, 'qty': 3}, {'product_id': 9, 'qty': 4}, {'product_id': 36, 'qty': 1}]"
+ec-2025-11-11-18,2025-11-11T09:10:00,53,"42524 Erin Haven
+Port Anthonyburgh, NV 31140","[{'product_id': 37, 'qty': 2}]"
+ec-2025-11-11-19,2025-11-11T11:51:00,42,"7643 Laura Pine
+Matthewland, IN 98547","[{'product_id': 41, 'qty': 2}, {'product_id': 40, 'qty': 1}, {'product_id': 24, 'qty': 1}]"

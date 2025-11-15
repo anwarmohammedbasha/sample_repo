@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-02-0,2025-11-02,2,971.74,"Perkins, Clark and Taylor",1
+exp-2025-11-02-1,2025-11-02,5,1591.62,"Gaines, Salas and Harris",3
+exp-2025-11-02-2,2025-11-02,3,1093.77,Smith Inc,1
+exp-2025-11-02-3,2025-11-02,3,1791.44,"Wells, Thomas and Levine",3
+exp-2025-11-02-4,2025-11-02,5,790.88,Gonzalez-Sanders,5
+exp-2025-11-02-5,2025-11-02,1,922.22,"Reed, Hays and Johnson",4
+exp-2025-11-02-6,2025-11-02,4,15.36,Jones Ltd,5
+exp-2025-11-02-7,2025-11-02,2,1785.6,Case-Cross,3
+exp-2025-11-02-8,2025-11-02,3,1786.65,"Smith, Williams and Frost",3

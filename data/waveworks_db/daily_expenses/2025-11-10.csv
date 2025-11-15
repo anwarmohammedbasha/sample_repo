@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-10-0,2025-11-10,3,435.45,Heath-Williams,3
+exp-2025-11-10-1,2025-11-10,4,1171.21,Boone LLC,4
+exp-2025-11-10-2,2025-11-10,1,1149.61,Skinner and Sons,5
+exp-2025-11-10-3,2025-11-10,5,1067.72,Montgomery-Simon,3
+exp-2025-11-10-4,2025-11-10,4,1165.67,"Morgan, Wilson and Sanders",4
+exp-2025-11-10-5,2025-11-10,1,1111.92,Alexander-Cooper,3
+exp-2025-11-10-6,2025-11-10,5,994.84,Cooper and Sons,5

@@ -1,0 +1,7 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-17-0,2025-10-17,5,1522.26,Dudley-Wallace,1
+exp-2025-10-17-1,2025-10-17,4,946.75,Valdez and Sons,4
+exp-2025-10-17-2,2025-10-17,2,616.31,"Gallagher, Price and Garner",5
+exp-2025-10-17-3,2025-10-17,5,1738.23,"Jenkins, Lopez and Schwartz",4
+exp-2025-10-17-4,2025-10-17,4,57.9,Tucker Inc,3
+exp-2025-10-17-5,2025-10-17,1,1689.25,"Anderson, Barker and Smith",5

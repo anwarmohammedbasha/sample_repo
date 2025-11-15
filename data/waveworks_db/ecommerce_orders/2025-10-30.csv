@@ -1,0 +1,16 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-30-0,2025-10-30T07:23:00,135,"27022 Frazier Glens
+Georgeton, DC 29350","[{'product_id': 41, 'qty': 2}, {'product_id': 19, 'qty': 1}, {'product_id': 17, 'qty': 1}]"
+ec-2025-10-30-1,2025-10-30T02:05:00,70,"4331 Nguyen Via
+Moniquetown, GA 48448","[{'product_id': 26, 'qty': 1}, {'product_id': 25, 'qty': 2}]"
+ec-2025-10-30-2,2025-10-30T23:27:00,55,"24089 Erin Station Apt. 040
+Port Tiffany, UT 90977","[{'product_id': 34, 'qty': 1}]"
+ec-2025-10-30-3,2025-10-30T21:39:00,168,"2604 Williams Stream
+Mannshire, DC 79754","[{'product_id': 42, 'qty': 2}, {'product_id': 21, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-10-30-4,2025-10-30T21:18:00,164,,"[{'product_id': 34, 'qty': 1}, {'product_id': 21, 'qty': 1}]"
+ec-2025-10-30-5,2025-10-30T16:37:00,116,"420 Reilly Harbor
+Jeffstad, OH 37151","[{'product_id': 6, 'qty': 2}]"
+ec-2025-10-30-6,2025-10-30T20:45:00,10,"20854 Robinson Crescent Apt. 633
+Lake Heather, CA 36584","[{'product_id': 43, 'qty': 3}, {'product_id': 34, 'qty': 3}]"
+ec-2025-10-30-7,2025-10-30T23:41:00,144,"USNS Norton
+FPO AE 19874","[{'product_id': 31, 'qty': 1}]"

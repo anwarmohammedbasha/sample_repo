@@ -1,0 +1,61 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-27-0,2025-10-27T20:34:00,111,"Unit 5144 Box 3853
+DPO AA 77528","[{'product_id': 45, 'qty': 1}]"
+ec-2025-10-27-1,2025-10-27T10:10:00,92,"64764 Kramer Point
+Howardport, MI 63106","[{'product_id': 39, 'qty': 2}, {'product_id': 25, 'qty': 1}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-27-2,2025-10-27T14:20:00,118,"547 Carl Trace Suite 092
+Huberstad, TN 47255","[{'product_id': 49, 'qty': 1}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-27-3,2025-10-27T02:49:00,103,"USCGC Johnson
+FPO AA 75298","[{'product_id': 27, 'qty': 3}, {'product_id': 6, 'qty': 2}]"
+ec-2025-10-27-4,2025-10-27T19:07:00,18,"9201 Wesley Turnpike Apt. 620
+North Allen, PR 59905","[{'product_id': 4, 'qty': 1}, {'product_id': 9, 'qty': 1}, {'product_id': 33, 'qty': 3}]"
+ec-2025-10-27-5,2025-10-27T09:34:00,50,"498 Hurst Dam
+West Eric, GA 80185","[{'product_id': 40, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-10-27-6,2025-10-27T10:05:00,69,"20875 Mary Rapids Suite 022
+New Alexander, IN 66397","[{'product_id': 12, 'qty': 1}, {'product_id': 1, 'qty': 3}]"
+ec-2025-10-27-7,2025-10-27T18:08:00,73,"PSC 9940, Box 3759
+APO AA 47739","[{'product_id': 48, 'qty': 2}]"
+ec-2025-10-27-8,2025-10-27T07:15:00,78,"6537 Kevin Court Apt. 370
+Gillespiestad, IN 98000","[{'product_id': 18, 'qty': 2}]"
+ec-2025-10-27-9,2025-10-27T02:43:00,117,"66142 Jill Freeway Apt. 758
+Lake Jamesfurt, LA 09780","[{'product_id': 8, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-10-27-10,2025-10-27T20:29:00,28,"PSC 0229, Box 3191
+APO AP 39457","[{'product_id': 21, 'qty': 1}, {'product_id': 38, 'qty': 2}]"
+ec-2025-10-27-11,2025-10-27T00:58:00,99,"218 Phillips Trace
+East Michaelmouth, MS 78009","[{'product_id': 37, 'qty': 2}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-27-12,2025-10-27T05:36:00,95,"80091 Elizabeth Island
+Port Jeremyberg, KY 15989","[{'product_id': 49, 'qty': 2}]"
+ec-2025-10-27-13,2025-10-27T21:10:00,87,"21965 Amber Ways
+New Michellestad, NH 28266","[{'product_id': 23, 'qty': 3}, {'product_id': 12, 'qty': 3}]"
+ec-2025-10-27-14,2025-10-27T10:59:00,164,"1254 Fisher Trafficway
+East Gregoryville, OK 61187","[{'product_id': 34, 'qty': 1}]"
+ec-2025-10-27-15,2025-10-27T13:12:00,58,,"[{'product_id': 9, 'qty': 1}]"
+ec-2025-10-27-16,2025-10-27T23:33:00,159,"096 Young Mountains
+Wongbury, IA 99141","[{'product_id': 11, 'qty': 1}, {'product_id': 7, 'qty': 1}]"
+ec-2025-10-27-17,2025-10-27T20:29:00,36,"929 Kelly Island
+Lake Zachary, SC 80212","[{'product_id': 20, 'qty': 2}]"
+ec-2025-10-27-18,2025-10-27T02:58:00,105,"4713 Reynolds Extension Suite 016
+South Sandra, AL 50200","[{'product_id': 8, 'qty': 1}]"
+ec-2025-10-27-19,2025-10-27T06:00:00,104,"8149 Reynolds Crescent
+Washingtonchester, NE 26526","[{'product_id': 31, 'qty': 2}]"
+ec-2025-10-27-20,2025-10-27T00:10:00,102,"USS Bass
+FPO AP 93938","[{'product_id': 23, 'qty': 2}]"
+ec-2025-10-27-21,2025-10-27T04:08:00,60,"USNS Chan
+FPO AA 24327","[{'product_id': 3, 'qty': 1}, {'product_id': 20, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-10-27-22,2025-10-27T00:15:00,48,"Unit 5659 Box 0121
+DPO AP 71490","[{'product_id': 7, 'qty': 1}, {'product_id': 37, 'qty': 1}]"
+ec-2025-10-27-23,2025-10-27T08:10:00,165,"615 Heather Ville
+Shannonburgh, MS 43037","[{'product_id': 40, 'qty': 2}, {'product_id': 6, 'qty': 3}]"
+ec-2025-10-27-24,2025-10-27T20:36:00,16,,"[{'product_id': 2, 'qty': 2}, {'product_id': 22, 'qty': 3}, {'product_id': 28, 'qty': 2}]"
+ec-2025-10-27-25,2025-10-27T11:37:00,97,"95082 Rachel Junctions
+North Tonya, CT 79595","[{'product_id': 18, 'qty': 2}, {'product_id': 45, 'qty': 1}, {'product_id': 24, 'qty': 2}]"
+ec-2025-10-27-26,2025-10-27T12:04:00,154,"6011 Samuel Court Suite 829
+New Barbara, AR 30845","[{'product_id': 29, 'qty': 1}, {'product_id': 10, 'qty': 1}, {'product_id': 15, 'qty': 3}]"
+ec-2025-10-27-27,2025-10-27T11:44:00,187,"5999 Dunn Dam
+Kathleenburgh, CA 06099","[{'product_id': 9, 'qty': 2}]"
+ec-2025-10-27-28,2025-10-27T07:59:00,22,"74814 Donald Shore Apt. 334
+East Ericahaven, MP 97926","[{'product_id': 41, 'qty': 1}, {'product_id': 35, 'qty': 2}, {'product_id': 50, 'qty': 2}]"
+ec-2025-10-27-29,2025-10-27T09:53:00,113,"6912 Beard Springs
+West Thomas, CA 03162","[{'product_id': 29, 'qty': 2}]"
+ec-2025-10-27-30,2025-10-27T00:26:00,190,"68121 Lori Mountains Apt. 594
+West Natalie, VT 08652","[{'product_id': 49, 'qty': 1}, {'product_id': 45, 'qty': 3}]"

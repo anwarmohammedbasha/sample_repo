@@ -1,0 +1,32 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-22-0,2025-10-22T16:35:00,176,"505 Martinez Bridge Suite 102
+Cynthiamouth, MT 24768","[{'product_id': 6, 'qty': 1}, {'product_id': 14, 'qty': 2}]"
+ec-2025-10-22-1,2025-10-22T18:41:00,83,,"[{'product_id': 48, 'qty': 2}]"
+ec-2025-10-22-2,2025-10-22T07:06:00,70,"USCGC White
+FPO AA 22598","[{'product_id': 17, 'qty': 1}, {'product_id': 36, 'qty': 1}, {'product_id': 35, 'qty': 2}]"
+ec-2025-10-22-3,2025-10-22T18:17:00,59,"14719 Curtis Bridge
+Joshuabury, DE 07200","[{'product_id': 31, 'qty': 2}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-22-4,2025-10-22T08:37:00,93,"8458 Landry Corner
+Bakerborough, NC 08910","[{'product_id': 48, 'qty': 1}, {'product_id': 31, 'qty': 1}, {'product_id': 19, 'qty': 1}]"
+ec-2025-10-22-5,2025-10-22T12:12:00,24,"44793 Patrick Glens
+Lake Teresa, NY 42315","[{'product_id': 38, 'qty': 1}, {'product_id': 30, 'qty': 1}, {'product_id': 21, 'qty': 1}]"
+ec-2025-10-22-6,2025-10-22T07:17:00,17,"USNV Hansen
+FPO AP 02305","[{'product_id': 1, 'qty': 1}, {'product_id': 19, 'qty': 3}, {'product_id': 16, 'qty': 1}]"
+ec-2025-10-22-7,2025-10-22T14:30:00,25,"307 Matthew Port
+Scottland, NE 30291","[{'product_id': 45, 'qty': 2}]"
+ec-2025-10-22-8,2025-10-22T18:02:00,96,"88914 Rodney Wall
+Sherristad, OH 50882","[{'product_id': 7, 'qty': 1}]"
+ec-2025-10-22-9,2025-10-22T08:18:00,22,"1867 Foley Forges Suite 212
+West John, VA 32450","[{'product_id': 6, 'qty': 1}, {'product_id': 21, 'qty': 2}, {'product_id': 15, 'qty': 2}]"
+ec-2025-10-22-10,2025-10-22T14:47:00,124,"7514 Nguyen Parkway
+Mariahaven, TN 03256","[{'product_id': 41, 'qty': 3}]"
+ec-2025-10-22-11,2025-10-22T16:35:00,141,"940 Michael Branch Suite 577
+West Gregoryside, IN 16608","[{'product_id': 7, 'qty': 3}, {'product_id': 3, 'qty': 1}]"
+ec-2025-10-22-12,2025-10-22T17:54:00,82,"47932 Jessica Islands Apt. 183
+Maryfort, TN 36047","[{'product_id': 22, 'qty': 1}]"
+ec-2025-10-22-13,2025-10-22T15:30:00,14,"475 Chavez Freeway Apt. 891
+Lauramouth, NM 77846","[{'product_id': 42, 'qty': 2}, {'product_id': 28, 'qty': 1}, {'product_id': 38, 'qty': 1}]"
+ec-2025-10-22-14,2025-10-22T02:27:00,96,"984 Paul Forks Apt. 267
+Lake Michaelton, LA 06913","[{'product_id': 46, 'qty': 1}]"
+ec-2025-10-22-15,2025-10-22T06:41:00,4,"74292 Meghan Drive Apt. 003
+Elizabethton, GU 05785","[{'product_id': 12, 'qty': 2}]"

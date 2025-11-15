@@ -1,0 +1,59 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-19-0,2025-10-19T05:43:00,104,"985 Crystal Village
+Smithview, MI 50696","[{'product_id': 33, 'qty': 1}]"
+ec-2025-10-19-1,2025-10-19T14:01:00,53,"5197 Davis Viaduct
+Wendyville, ME 06623","[{'product_id': 2, 'qty': 3}]"
+ec-2025-10-19-2,2025-10-19T23:23:00,123,"02482 Rebecca Run
+Shieldsview, PA 71003","[{'product_id': 16, 'qty': 1}]"
+ec-2025-10-19-3,2025-10-19T06:09:00,30,"282 Nathan Alley
+Lisaborough, VT 83456","[{'product_id': 39, 'qty': 1}, {'product_id': 2, 'qty': 1}, {'product_id': 6, 'qty': 1}]"
+ec-2025-10-19-4,2025-10-19T18:40:00,140,"399 Samantha Lodge Apt. 215
+Oneillfurt, MS 91401","[{'product_id': 42, 'qty': 2}, {'product_id': 25, 'qty': 1}, {'product_id': 42, 'qty': 2}]"
+ec-2025-10-19-5,2025-10-19T04:34:00,7,"Unit 7429 Box 2440
+DPO AE 34389","[{'product_id': 1, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-10-19-6,2025-10-19T20:20:00,10,"380 Tracy Plaza Apt. 325
+Powellshire, VI 65737","[{'product_id': 30, 'qty': 3}]"
+ec-2025-10-19-7,2025-10-19T20:00:00,34,"7476 Lisa Glen
+Arnoldmouth, NE 32794","[{'product_id': 38, 'qty': 1}]"
+ec-2025-10-19-8,2025-10-19T20:42:00,60,"95409 Carr Ports Apt. 766
+Michaelmouth, KY 63620","[{'product_id': 33, 'qty': 1}, {'product_id': 43, 'qty': 2}, {'product_id': 20, 'qty': 1}]"
+ec-2025-10-19-9,2025-10-19T20:44:00,117,"33774 James Well Suite 607
+East Brittanytown, NV 78994","[{'product_id': 46, 'qty': 1}]"
+ec-2025-10-19-10,2025-10-19T11:11:00,118,"28045 Thomas Trace Suite 030
+North Jaredside, ME 40735","[{'product_id': 34, 'qty': 2}, {'product_id': 47, 'qty': 4}]"
+ec-2025-10-19-11,2025-10-19T06:31:00,87,"27092 Marcus Road
+Hillport, UT 03669","[{'product_id': 1, 'qty': 1}, {'product_id': 32, 'qty': 1}]"
+ec-2025-10-19-12,2025-10-19T05:49:00,169,"139 Campos Throughway
+Michaelview, WY 20915","[{'product_id': 7, 'qty': 2}]"
+ec-2025-10-19-13,2025-10-19T11:01:00,85,"758 Jocelyn Views Apt. 875
+South Benjamin, TX 74634","[{'product_id': 44, 'qty': 2}]"
+ec-2025-10-19-14,2025-10-19T23:04:00,9,"74752 Patrick Lane
+Lake Cassidy, OK 45725","[{'product_id': 6, 'qty': 1}, {'product_id': 34, 'qty': 1}, {'product_id': 48, 'qty': 2}]"
+ec-2025-10-19-15,2025-10-19T07:35:00,133,"755 Matthew Passage Suite 850
+Lake Cynthia, NY 09752","[{'product_id': 17, 'qty': 2}, {'product_id': 33, 'qty': 2}]"
+ec-2025-10-19-16,2025-10-19T18:20:00,54,"805 Bennett Greens Suite 891
+East Joannafurt, OH 41889","[{'product_id': 20, 'qty': 3}]"
+ec-2025-10-19-17,2025-10-19T01:45:00,167,"894 Simmons Village
+New Deannafort, OK 84718","[{'product_id': 49, 'qty': 2}]"
+ec-2025-10-19-18,2025-10-19T05:12:00,59,"1209 Kyle Village Suite 003
+North Bryanmouth, PW 81628","[{'product_id': 4, 'qty': 2}, {'product_id': 29, 'qty': 3}]"
+ec-2025-10-19-19,2025-10-19T03:53:00,84,"07648 Alex Crescent Apt. 807
+Kristineshire, MT 08893","[{'product_id': 50, 'qty': 1}, {'product_id': 3, 'qty': 1}]"
+ec-2025-10-19-20,2025-10-19T19:53:00,164,"USCGC Brown
+FPO AE 99052","[{'product_id': 40, 'qty': 1}, {'product_id': 10, 'qty': 2}]"
+ec-2025-10-19-21,2025-10-19T07:55:00,164,"3971 Stefanie Valleys Apt. 332
+Collinchester, KS 95774","[{'product_id': 18, 'qty': 1}, {'product_id': 17, 'qty': 2}, {'product_id': 27, 'qty': 3}]"
+ec-2025-10-19-22,2025-10-19T10:00:00,7,"1943 Timothy Radial Suite 220
+South Patrick, WA 54303","[{'product_id': 50, 'qty': 1}]"
+ec-2025-10-19-23,2025-10-19T14:26:00,186,"16793 Lloyd Tunnel
+East Jamesborough, IA 20636","[{'product_id': 2, 'qty': 2}, {'product_id': 9, 'qty': 2}]"
+ec-2025-10-19-24,2025-10-19T20:55:00,82,"20250 Kim Loop Suite 030
+Danielhaven, SC 18420","[{'product_id': 33, 'qty': 1}, {'product_id': 23, 'qty': 1}]"
+ec-2025-10-19-25,2025-10-19T19:52:00,128,"9946 Wyatt Point
+Reedton, NM 41363","[{'product_id': 11, 'qty': 1}, {'product_id': 10, 'qty': 1}, {'product_id': 43, 'qty': 1}]"
+ec-2025-10-19-26,2025-10-19T13:25:00,144,"Unit 7415 Box 6988
+DPO AA 89224","[{'product_id': 46, 'qty': 2}]"
+ec-2025-10-19-27,2025-10-19T01:17:00,35,"3803 Michelle Radial
+Port Kimberlymouth, GA 50610","[{'product_id': 22, 'qty': 1}]"
+ec-2025-10-19-28,2025-10-19T22:35:00,78,"832 Stephanie Points Apt. 626
+Lake Alice, ID 91804","[{'product_id': 15, 'qty': 1}]"

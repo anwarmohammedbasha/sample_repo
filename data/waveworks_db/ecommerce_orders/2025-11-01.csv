@@ -1,0 +1,43 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-01-0,2025-11-01T10:48:00,18,"USNS Reynolds
+FPO AA 90889","[{'product_id': 46, 'qty': 1}, {'product_id': 4, 'qty': 2}, {'product_id': 34, 'qty': 2}]"
+ec-2025-11-01-1,2025-11-01T12:39:00,77,"40415 Cochran Radial Apt. 223
+Timtown, ME 06210","[{'product_id': 1, 'qty': 2}]"
+ec-2025-11-01-2,2025-11-01T06:30:00,2,"3444 Watson Drive Apt. 224
+Jasonmouth, IA 77534","[{'product_id': 31, 'qty': 1}, {'product_id': 9, 'qty': 3}, {'product_id': 41, 'qty': 1}]"
+ec-2025-11-01-3,2025-11-01T15:35:00,196,"589 Justin Greens Apt. 229
+Farleybury, DC 46708","[{'product_id': 46, 'qty': 3}, {'product_id': 31, 'qty': 1}, {'product_id': 31, 'qty': 1}]"
+ec-2025-11-01-4,2025-11-01T03:57:00,31,"378 Jeremy Alley
+Port Shane, PA 36123","[{'product_id': 19, 'qty': 2}, {'product_id': 9, 'qty': 1}, {'product_id': 31, 'qty': 3}]"
+ec-2025-11-01-5,2025-11-01T22:16:00,130,"0422 Teresa Plaza
+Armstrongstad, TN 29253","[{'product_id': 1, 'qty': 2}]"
+ec-2025-11-01-6,2025-11-01T15:06:00,22,"691 Robin Mission Suite 894
+East Nicholasfort, SC 13736","[{'product_id': 10, 'qty': 1}]"
+ec-2025-11-01-7,2025-11-01T09:30:00,37,"357 Erin Spring
+Castroville, NM 17458","[{'product_id': 19, 'qty': 1}, {'product_id': 4, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-11-01-8,2025-11-01T23:36:00,170,"USS West
+FPO AA 69735","[{'product_id': 7, 'qty': 1}, {'product_id': 49, 'qty': 1}]"
+ec-2025-11-01-9,2025-11-01T14:34:00,31,"73440 Mark Throughway
+West Susanhaven, SC 26689","[{'product_id': 41, 'qty': 1}, {'product_id': 31, 'qty': 2}, {'product_id': 40, 'qty': 2}]"
+ec-2025-11-01-10,2025-11-01T14:49:00,90,"724 Steven Ports
+Diazton, GA 14029","[{'product_id': 50, 'qty': 1}, {'product_id': 39, 'qty': 2}]"
+ec-2025-11-01-11,2025-11-01T20:48:00,186,"515 Cross Meadow
+Shermanfort, WV 15102","[{'product_id': 16, 'qty': 2}, {'product_id': 2, 'qty': 3}, {'product_id': 2, 'qty': 1}]"
+ec-2025-11-01-12,2025-11-01T05:30:00,73,"Unit 8836 Box 8290
+DPO AE 13556","[{'product_id': 25, 'qty': 1}, {'product_id': 44, 'qty': 1}, {'product_id': 30, 'qty': 1}]"
+ec-2025-11-01-13,2025-11-01T21:18:00,52,"261 Velazquez Place
+Brittanychester, VA 81383","[{'product_id': 9, 'qty': 2}]"
+ec-2025-11-01-14,2025-11-01T08:49:00,63,"904 Samantha Rapids
+Butlerport, IL 60428","[{'product_id': 1, 'qty': 1}, {'product_id': 30, 'qty': 3}, {'product_id': 31, 'qty': 2}]"
+ec-2025-11-01-15,2025-11-01T22:55:00,63,"2692 Joseph Run Apt. 607
+Kevinland, IN 43964","[{'product_id': 22, 'qty': 1}]"
+ec-2025-11-01-16,2025-11-01T03:54:00,22,"15651 Mckenzie Field
+West Jamestown, MI 75350","[{'product_id': 3, 'qty': 2}, {'product_id': 48, 'qty': 1}]"
+ec-2025-11-01-17,2025-11-01T13:32:00,182,"2690 Kim Walks Suite 492
+Norrisview, AL 22434","[{'product_id': 27, 'qty': 1}]"
+ec-2025-11-01-18,2025-11-01T00:18:00,8,"716 Parker Garden
+New Jeffrey, LA 32418","[{'product_id': 26, 'qty': 1}]"
+ec-2025-11-01-19,2025-11-01T07:07:00,172,"283 Holland Fields
+South Justinfort, NV 97769","[{'product_id': 22, 'qty': 3}, {'product_id': 39, 'qty': 1}]"
+ec-2025-11-01-20,2025-11-01T06:56:00,57,"6370 Barker Glen Apt. 519
+Javierborough, PR 68910","[{'product_id': 33, 'qty': 2}, {'product_id': 46, 'qty': 2}, {'product_id': 6, 'qty': 3}]"

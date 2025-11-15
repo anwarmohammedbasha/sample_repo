@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-27-0,2025-10-27,4,1615.53,Adams Group,5
+exp-2025-10-27-1,2025-10-27,5,821.43,"Holland, Boyd and Glover",2
+exp-2025-10-27-2,2025-10-27,3,1167.14,Rodriguez-Mclaughlin,4
+exp-2025-10-27-3,2025-10-27,2,278.43,Cook-Mendez,3
+exp-2025-10-27-4,2025-10-27,2,1213.62,Cox Group,2
+exp-2025-10-27-5,2025-10-27,4,1131.71,Miller and Sons,4
+exp-2025-10-27-6,2025-10-27,4,802.33,"Erickson, Gomez and Wood",5
+exp-2025-10-27-7,2025-10-27,5,822.28,Mcgrath-Leonard,3
+exp-2025-10-27-8,2025-10-27,4,1224.44,Davidson-Lopez,5

@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-19-0,2025-10-19,2,1887.58,"Gonzalez, Lloyd and Sherman",2
+exp-2025-10-19-1,2025-10-19,5,1680.22,"Steele, Kirk and Johnson",5
+exp-2025-10-19-2,2025-10-19,5,1861.67,Hoover-Gibson,5
+exp-2025-10-19-3,2025-10-19,2,843.17,"Brennan, Murphy and Alvarez",2
+exp-2025-10-19-4,2025-10-19,2,932.66,"Richardson, Ferguson and Cruz",1
+exp-2025-10-19-5,2025-10-19,5,851.55,Norman Group,5
+exp-2025-10-19-6,2025-10-19,3,351.52,"Krueger, Steele and Thomas",2
+exp-2025-10-19-7,2025-10-19,1,420.43,Lopez Group,5
+exp-2025-10-19-8,2025-10-19,2,1945.23,"Jones, Clements and Robinson",2
+exp-2025-10-19-9,2025-10-19,3,611.95,Lane-Gallagher,5

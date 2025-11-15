@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-01-0,2025-11-01,1,387.86,"Jennings, Nelson and Petty",3
+exp-2025-11-01-1,2025-11-01,3,557.37,Evans and Sons,5
+exp-2025-11-01-2,2025-11-01,5,10.17,"Ramirez, Reynolds and Green",4
+exp-2025-11-01-3,2025-11-01,1,893.42,Serrano Ltd,4
+exp-2025-11-01-4,2025-11-01,2,1551.19,Phillips and Sons,1
+exp-2025-11-01-5,2025-11-01,1,1386.74,Howe-Pena,3
+exp-2025-11-01-6,2025-11-01,1,1557.01,Rodriguez-Bryant,4
+exp-2025-11-01-7,2025-11-01,1,1955.14,Valdez Group,3
+exp-2025-11-01-8,2025-11-01,1,971.81,Macias-Gonzalez,2
+exp-2025-11-01-9,2025-11-01,5,1190.25,Diaz and Sons,3

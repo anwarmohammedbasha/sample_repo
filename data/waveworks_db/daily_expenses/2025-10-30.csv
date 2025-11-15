@@ -1,0 +1,7 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-30-0,2025-10-30,1,1144.75,Hartman-Peters,4
+exp-2025-10-30-1,2025-10-30,4,1221.18,Garcia Group,5
+exp-2025-10-30-2,2025-10-30,3,1121.81,Silva LLC,2
+exp-2025-10-30-3,2025-10-30,5,1880.93,Green-Carr,5
+exp-2025-10-30-4,2025-10-30,1,1301.58,Dixon PLC,4
+exp-2025-10-30-5,2025-10-30,5,136.05,"Banks, Schwartz and Jacobson",4

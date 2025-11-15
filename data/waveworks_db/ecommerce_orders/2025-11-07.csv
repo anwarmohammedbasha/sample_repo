@@ -1,0 +1,19 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-07-0,2025-11-07T22:56:00,100,"57124 Carrie Via
+East Elizabeth, NM 10395","[{'product_id': 50, 'qty': 1}, {'product_id': 41, 'qty': 1}, {'product_id': 1, 'qty': 2}]"
+ec-2025-11-07-1,2025-11-07T08:06:00,138,"75344 Zachary Gardens Apt. 923
+Daniellemouth, MO 34102","[{'product_id': 44, 'qty': 4}, {'product_id': 31, 'qty': 3}, {'product_id': 16, 'qty': 1}]"
+ec-2025-11-07-2,2025-11-07T15:54:00,192,"Unit 8363 Box 1495
+DPO AA 01053","[{'product_id': 20, 'qty': 1}, {'product_id': 42, 'qty': 1}, {'product_id': 3, 'qty': 2}]"
+ec-2025-11-07-3,2025-11-07T01:27:00,6,"15253 Heather Mills Suite 432
+Lake Lindsey, OK 19259","[{'product_id': 17, 'qty': 1}]"
+ec-2025-11-07-4,2025-11-07T01:43:00,122,"8185 Walsh Branch Apt. 328
+Allisonview, ME 22119","[{'product_id': 8, 'qty': 1}, {'product_id': 28, 'qty': 2}]"
+ec-2025-11-07-5,2025-11-07T00:56:00,168,"026 Tammy Rapids
+North Robertton, MN 91246","[{'product_id': 21, 'qty': 3}, {'product_id': 7, 'qty': 2}, {'product_id': 34, 'qty': 3}]"
+ec-2025-11-07-6,2025-11-07T12:40:00,21,"6678 Melissa Greens
+Jeffreyside, CO 75728","[{'product_id': 49, 'qty': 2}, {'product_id': 42, 'qty': 2}, {'product_id': 20, 'qty': 1}]"
+ec-2025-11-07-7,2025-11-07T14:20:00,156,"303 Thompson Islands
+New Janetmouth, FL 97255","[{'product_id': 26, 'qty': 3}, {'product_id': 23, 'qty': 1}, {'product_id': 39, 'qty': 3}]"
+ec-2025-11-07-8,2025-11-07T06:21:00,117,"Unit 8423 Box 2525
+DPO AA 75547","[{'product_id': 16, 'qty': 1}]"

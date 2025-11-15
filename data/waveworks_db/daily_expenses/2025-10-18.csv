@@ -1,0 +1,6 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-18-0,2025-10-18,2,1658.59,Butler-Johns,1
+exp-2025-10-18-1,2025-10-18,3,1299.34,West Group,1
+exp-2025-10-18-2,2025-10-18,5,1729.99,"Lewis, Castro and Brown",4
+exp-2025-10-18-3,2025-10-18,1,820.2,Chapman-Davis,1
+exp-2025-10-18-4,2025-10-18,1,810.42,"Dixon, Reynolds and Cooper",1

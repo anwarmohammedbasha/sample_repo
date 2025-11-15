@@ -1,0 +1,5 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-21-0,2025-10-21,4,118.25,Miller-Guerrero,2
+exp-2025-10-21-1,2025-10-21,4,632.66,Nichols-Cortez,1
+exp-2025-10-21-2,2025-10-21,2,71.86,Brown LLC,1
+exp-2025-10-21-3,2025-10-21,5,1284.84,Ellis-Cunningham,1

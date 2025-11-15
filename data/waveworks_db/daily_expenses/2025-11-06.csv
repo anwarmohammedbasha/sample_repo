@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-06-0,2025-11-06,2,169.06,"Smith, Rodriguez and Fernandez",3
+exp-2025-11-06-1,2025-11-06,4,1494.34,Thomas Ltd,5
+exp-2025-11-06-2,2025-11-06,3,1461.1,Christensen Inc,4
+exp-2025-11-06-3,2025-11-06,4,1609.77,Castillo-White,2
+exp-2025-11-06-4,2025-11-06,4,367.81,Mccullough PLC,5
+exp-2025-11-06-5,2025-11-06,4,1846.47,Johnson and Sons,1
+exp-2025-11-06-6,2025-11-06,2,1500.59,Williams-Miller,5
+exp-2025-11-06-7,2025-11-06,3,42.72,Frazier-Davis,5
+exp-2025-11-06-8,2025-11-06,4,21.82,Ruiz PLC,5
+exp-2025-11-06-9,2025-11-06,4,106.35,Bender Ltd,1
+exp-2025-11-06-10,2025-11-06,4,480.64,Christensen-Fowler,2
+exp-2025-11-06-11,2025-11-06,4,1660.18,Macias-Reeves,2
+exp-2025-11-06-12,2025-11-06,5,1775.33,"Russo, Wheeler and Barrera",4

@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-26-0,2025-10-26,5,1510.26,"Marsh, Johnson and Collins",4
+exp-2025-10-26-1,2025-10-26,3,1559.98,"Escobar, Richards and Wallace",1
+exp-2025-10-26-2,2025-10-26,2,1748.67,Lowe and Sons,3
+exp-2025-10-26-3,2025-10-26,5,1098.1,Jones-Schwartz,5
+exp-2025-10-26-4,2025-10-26,4,1996.17,Ward Inc,3
+exp-2025-10-26-5,2025-10-26,3,1878.75,"Young, Lloyd and Garcia",2
+exp-2025-10-26-6,2025-10-26,2,1921.85,Scott Ltd,1

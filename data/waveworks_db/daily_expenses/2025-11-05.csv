@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-05-0,2025-11-05,5,341.81,Garrett-Myers,2
+exp-2025-11-05-1,2025-11-05,4,489.53,Stewart PLC,1
+exp-2025-11-05-2,2025-11-05,5,657.92,"Lee, Pineda and Wright",4
+exp-2025-11-05-3,2025-11-05,2,302.01,Perez-Gonzalez,5
+exp-2025-11-05-4,2025-11-05,4,1359.46,Porter PLC,3
+exp-2025-11-05-5,2025-11-05,3,1425.22,Hernandez-Scott,1
+exp-2025-11-05-6,2025-11-05,5,1361.0,Wu-Ortega,2

@@ -1,0 +1,4 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-25-0,2025-10-25,2,1837.4,Walker-Bender,4
+exp-2025-10-25-1,2025-10-25,3,274.59,Hess-Pope,3
+exp-2025-10-25-2,2025-10-25,1,710.34,Carter-Gonzalez,4

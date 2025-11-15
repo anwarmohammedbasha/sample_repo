@@ -1,0 +1,37 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-16-0,2025-10-16T04:52:00,107,"323 Lloyd Pines
+Kelleyshire, CA 12830","[{'product_id': 19, 'qty': 2}, {'product_id': 14, 'qty': 3}]"
+ec-2025-10-16-1,2025-10-16T20:09:00,66,"PSC 9320, Box 5409
+APO AA 08531","[{'product_id': 9, 'qty': 3}]"
+ec-2025-10-16-2,2025-10-16T03:26:00,41,"Unit 1348 Box 4468
+DPO AP 47557","[{'product_id': 46, 'qty': 3}, {'product_id': 42, 'qty': 1}, {'product_id': 5, 'qty': 1}]"
+ec-2025-10-16-3,2025-10-16T11:14:00,158,"8792 Edward Highway
+Donaldmouth, AZ 31914","[{'product_id': 15, 'qty': 1}, {'product_id': 17, 'qty': 3}]"
+ec-2025-10-16-4,2025-10-16T06:13:00,176,"610 Gamble Road Apt. 674
+Gravesbury, NY 18481","[{'product_id': 45, 'qty': 2}, {'product_id': 11, 'qty': 2}, {'product_id': 38, 'qty': 2}]"
+ec-2025-10-16-5,2025-10-16T18:07:00,181,"Unit 1643 Box 1315
+DPO AP 35208","[{'product_id': 20, 'qty': 2}, {'product_id': 41, 'qty': 3}]"
+ec-2025-10-16-6,2025-10-16T05:30:00,88,"Unit 3461 Box 4350
+DPO AE 69805","[{'product_id': 48, 'qty': 1}, {'product_id': 33, 'qty': 1}]"
+ec-2025-10-16-7,2025-10-16T17:06:00,135,"833 Karen Parkway Apt. 663
+Richardtown, KS 97917","[{'product_id': 14, 'qty': 1}]"
+ec-2025-10-16-8,2025-10-16T22:09:00,124,"91490 Fox Grove Suite 524
+New Travisborough, PR 13004","[{'product_id': 35, 'qty': 2}, {'product_id': 19, 'qty': 3}, {'product_id': 25, 'qty': 2}]"
+ec-2025-10-16-9,2025-10-16T23:48:00,20,"647 Lloyd Land
+North Kevin, SC 31775","[{'product_id': 45, 'qty': 1}]"
+ec-2025-10-16-10,2025-10-16T12:37:00,103,"580 Crystal Cliff
+Morganmouth, TX 97459","[{'product_id': 37, 'qty': 1}, {'product_id': 39, 'qty': 1}, {'product_id': 18, 'qty': 1}]"
+ec-2025-10-16-11,2025-10-16T13:21:00,7,"84438 Catherine Drive
+Waltersstad, LA 72586","[{'product_id': 33, 'qty': 1}, {'product_id': 18, 'qty': 2}]"
+ec-2025-10-16-12,2025-10-16T19:21:00,199,"7268 Baird Square Apt. 622
+Adamfurt, MO 32339","[{'product_id': 44, 'qty': 1}]"
+ec-2025-10-16-13,2025-10-16T21:11:00,114,"2497 Samantha Villages Suite 545
+West Juan, TN 25312","[{'product_id': 8, 'qty': 1}, {'product_id': 4, 'qty': 2}]"
+ec-2025-10-16-14,2025-10-16T04:48:00,107,"7634 Kelly Crossroad
+Sarahfurt, LA 97570","[{'product_id': 9, 'qty': 1}, {'product_id': 1, 'qty': 2}]"
+ec-2025-10-16-15,2025-10-16T10:52:00,188,"35033 Marquez Ways
+Watersshire, MI 25622","[{'product_id': 27, 'qty': 2}, {'product_id': 18, 'qty': 1}, {'product_id': 34, 'qty': 3}]"
+ec-2025-10-16-16,2025-10-16T13:36:00,83,"1490 Castillo Spurs
+East Andrew, MN 32338","[{'product_id': 32, 'qty': 1}, {'product_id': 12, 'qty': 4}]"
+ec-2025-10-16-17,2025-10-16T08:41:00,121,"9719 Caroline Falls
+New Danastad, TN 36788","[{'product_id': 1, 'qty': 3}]"

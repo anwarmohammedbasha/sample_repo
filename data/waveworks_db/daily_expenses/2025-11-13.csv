@@ -1,0 +1,14 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-13-0,2025-11-13,2,376.77,"Martin, Miller and Campbell",2
+exp-2025-11-13-1,2025-11-13,2,990.6,Scott-Turner,2
+exp-2025-11-13-2,2025-11-13,2,1879.07,Young PLC,5
+exp-2025-11-13-3,2025-11-13,1,1910.33,Russell PLC,3
+exp-2025-11-13-4,2025-11-13,4,66.27,Yoder Inc,1
+exp-2025-11-13-5,2025-11-13,2,1121.44,"Hale, Williams and Lopez",4
+exp-2025-11-13-6,2025-11-13,1,676.77,Costa-Wells,5
+exp-2025-11-13-7,2025-11-13,5,1594.34,Woodard-Wells,3
+exp-2025-11-13-8,2025-11-13,1,729.29,"Rush, Norris and Stuart",4
+exp-2025-11-13-9,2025-11-13,3,1458.57,Thomas LLC,4
+exp-2025-11-13-10,2025-11-13,3,46.82,Patton-Taylor,4
+exp-2025-11-13-11,2025-11-13,4,1565.19,Barrera Group,2
+exp-2025-11-13-12,2025-11-13,4,912.35,"Richards, Gutierrez and Alvarado",5

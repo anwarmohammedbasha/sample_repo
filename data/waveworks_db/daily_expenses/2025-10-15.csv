@@ -1,0 +1,4 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-15-0,2025-10-15,3,1952.82,Mason Ltd,4
+exp-2025-10-15-1,2025-10-15,1,340.77,Hebert-French,2
+exp-2025-10-15-2,2025-10-15,4,541.35,"Walker, Horton and Evans",5

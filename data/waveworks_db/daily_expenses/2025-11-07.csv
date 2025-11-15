@@ -1,0 +1,8 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-07-0,2025-11-07,1,1251.45,"Hurst, Hansen and Knight",1
+exp-2025-11-07-1,2025-11-07,2,1177.42,Rodriguez-Rogers,2
+exp-2025-11-07-2,2025-11-07,1,1612.93,Harris PLC,1
+exp-2025-11-07-3,2025-11-07,2,368.01,"Crawford, Greer and Davis",3
+exp-2025-11-07-4,2025-11-07,3,324.58,Turner Inc,4
+exp-2025-11-07-5,2025-11-07,3,1141.16,Garcia-Parker,3
+exp-2025-11-07-6,2025-11-07,2,1716.36,Warner-Johnson,2

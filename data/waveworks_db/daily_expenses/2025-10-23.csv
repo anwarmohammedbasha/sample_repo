@@ -1,0 +1,5 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-23-0,2025-10-23,4,123.07,"Goodwin, Trujillo and Lewis",2
+exp-2025-10-23-1,2025-10-23,4,397.29,Miller-Snyder,3
+exp-2025-10-23-2,2025-10-23,3,545.95,Kline LLC,5
+exp-2025-10-23-3,2025-10-23,4,1264.13,Holt-Lambert,3

@@ -1,0 +1,54 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-09-0,2025-11-09T19:40:00,47,"8077 Alexandra Harbor Suite 481
+Adamburgh, GU 20632","[{'product_id': 50, 'qty': 4}]"
+ec-2025-11-09-1,2025-11-09T20:16:00,30,"098 Perkins Mission Suite 525
+Port Susan, MH 99821","[{'product_id': 31, 'qty': 1}]"
+ec-2025-11-09-2,2025-11-09T01:58:00,99,"72592 Anderson Mills
+West Carrieberg, CA 79359","[{'product_id': 18, 'qty': 4}]"
+ec-2025-11-09-3,2025-11-09T01:42:00,97,"12944 Laura Stream
+West Justin, WI 30362","[{'product_id': 10, 'qty': 2}, {'product_id': 38, 'qty': 3}, {'product_id': 11, 'qty': 2}]"
+ec-2025-11-09-4,2025-11-09T04:22:00,132,"8556 Cooper Prairie Apt. 610
+East Steven, AS 50340","[{'product_id': 8, 'qty': 1}, {'product_id': 35, 'qty': 1}]"
+ec-2025-11-09-5,2025-11-09T03:53:00,115,"USCGC Johnson
+FPO AE 35321","[{'product_id': 42, 'qty': 3}, {'product_id': 22, 'qty': 2}]"
+ec-2025-11-09-6,2025-11-09T23:06:00,115,"0155 Adams Green
+Leechester, AK 82679","[{'product_id': 47, 'qty': 1}, {'product_id': 37, 'qty': 1}, {'product_id': 31, 'qty': 3}]"
+ec-2025-11-09-7,2025-11-09T15:19:00,160,"2698 Matthew Falls Suite 497
+Lake Ronaldport, AS 80080","[{'product_id': 11, 'qty': 1}, {'product_id': 9, 'qty': 2}]"
+ec-2025-11-09-8,2025-11-09T09:31:00,140,"926 Bright Spur
+Perezport, IA 27220","[{'product_id': 27, 'qty': 2}, {'product_id': 23, 'qty': 1}]"
+ec-2025-11-09-9,2025-11-09T21:09:00,137,"05530 James Throughway Suite 696
+South Raymond, UT 61782","[{'product_id': 28, 'qty': 1}]"
+ec-2025-11-09-10,2025-11-09T02:37:00,127,"83709 James Passage
+New Deborahfurt, UT 78150","[{'product_id': 46, 'qty': 1}, {'product_id': 7, 'qty': 3}, {'product_id': 27, 'qty': 2}]"
+ec-2025-11-09-11,2025-11-09T20:21:00,119,"6208 Edwin Plains
+Tammyport, MA 57199","[{'product_id': 23, 'qty': 2}, {'product_id': 29, 'qty': 2}]"
+ec-2025-11-09-12,2025-11-09T14:08:00,27,"5761 Ray Way
+Alanchester, PW 89492","[{'product_id': 39, 'qty': 1}, {'product_id': 27, 'qty': 2}]"
+ec-2025-11-09-13,2025-11-09T17:18:00,19,"975 Reynolds Tunnel
+Lake Michelleborough, NY 64000","[{'product_id': 34, 'qty': 4}]"
+ec-2025-11-09-14,2025-11-09T23:32:00,182,"407 Ian Drive Apt. 435
+Diazton, FM 82309","[{'product_id': 38, 'qty': 3}, {'product_id': 11, 'qty': 2}, {'product_id': 45, 'qty': 3}]"
+ec-2025-11-09-15,2025-11-09T21:56:00,4,"17930 Thomas Hollow
+East Shari, AZ 88975","[{'product_id': 32, 'qty': 2}, {'product_id': 23, 'qty': 2}]"
+ec-2025-11-09-16,2025-11-09T05:51:00,30,"556 Edwards Cape Suite 547
+Nicholsonstad, AR 03022","[{'product_id': 13, 'qty': 3}, {'product_id': 27, 'qty': 3}, {'product_id': 16, 'qty': 1}]"
+ec-2025-11-09-17,2025-11-09T02:37:00,121,"Unit 4827 Box 6413
+DPO AP 77339","[{'product_id': 22, 'qty': 1}, {'product_id': 3, 'qty': 2}, {'product_id': 20, 'qty': 1}]"
+ec-2025-11-09-18,2025-11-09T08:16:00,122,"85717 Miller Bridge Suite 562
+New Michael, AZ 31017","[{'product_id': 23, 'qty': 1}, {'product_id': 48, 'qty': 1}, {'product_id': 22, 'qty': 3}]"
+ec-2025-11-09-19,2025-11-09T17:11:00,58,"229 Stephens Summit
+Jennifermouth, CO 66465","[{'product_id': 16, 'qty': 1}, {'product_id': 36, 'qty': 1}]"
+ec-2025-11-09-20,2025-11-09T04:13:00,40,"6601 Wright Stravenue
+Marytown, DE 36447","[{'product_id': 47, 'qty': 2}, {'product_id': 10, 'qty': 3}]"
+ec-2025-11-09-21,2025-11-09T10:59:00,199,"PSC 6106, Box 3892
+APO AA 70296","[{'product_id': 7, 'qty': 1}, {'product_id': 39, 'qty': 2}]"
+ec-2025-11-09-22,2025-11-09T23:54:00,190,"USNS Rich
+FPO AE 89748","[{'product_id': 5, 'qty': 1}, {'product_id': 17, 'qty': 1}, {'product_id': 32, 'qty': 3}]"
+ec-2025-11-09-23,2025-11-09T03:37:00,181,"497 Eric Estate Apt. 377
+West Robertaview, GU 63881","[{'product_id': 13, 'qty': 1}, {'product_id': 26, 'qty': 2}, {'product_id': 35, 'qty': 1}]"
+ec-2025-11-09-24,2025-11-09T13:29:00,60,"306 Oliver Vista
+West Kristineborough, NY 99699","[{'product_id': 23, 'qty': 1}, {'product_id': 47, 'qty': 3}]"
+ec-2025-11-09-25,2025-11-09T18:56:00,65,"210 Jodi Mission
+New Tracy, PA 60653","[{'product_id': 21, 'qty': 1}]"
+ec-2025-11-09-26,2025-11-09T20:35:00,63,,"[{'product_id': 39, 'qty': 3}, {'product_id': 26, 'qty': 1}]"

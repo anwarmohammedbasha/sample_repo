@@ -1,0 +1,23 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-31-0,2025-10-31T12:29:00,133,"3135 Samantha Skyway Apt. 229
+Joyceport, AS 62515","[{'product_id': 34, 'qty': 1}, {'product_id': 28, 'qty': 2}]"
+ec-2025-10-31-1,2025-10-31T16:02:00,99,"USS Cobb
+FPO AE 68604","[{'product_id': 48, 'qty': 2}, {'product_id': 46, 'qty': 1}, {'product_id': 11, 'qty': 1}]"
+ec-2025-10-31-2,2025-10-31T14:07:00,17,"0611 Jeremy Islands
+Robertsmouth, CO 95990","[{'product_id': 47, 'qty': 1}]"
+ec-2025-10-31-3,2025-10-31T18:18:00,54,"9844 Lisa Plaza
+Brandontown, MS 32441","[{'product_id': 23, 'qty': 2}, {'product_id': 42, 'qty': 1}]"
+ec-2025-10-31-4,2025-10-31T14:24:00,84,"111 Sloan Drive
+Lake Richardborough, MN 51163","[{'product_id': 35, 'qty': 1}]"
+ec-2025-10-31-5,2025-10-31T12:36:00,64,"4976 Gabriel Plains Apt. 761
+Chapmanchester, AK 88877","[{'product_id': 16, 'qty': 1}]"
+ec-2025-10-31-6,2025-10-31T17:22:00,42,"877 Adkins Mountains Apt. 503
+Mendozaton, FM 67209","[{'product_id': 26, 'qty': 1}, {'product_id': 43, 'qty': 2}]"
+ec-2025-10-31-7,2025-10-31T23:54:00,124,"152 Susan Parkways
+North Josephland, PR 83587","[{'product_id': 5, 'qty': 2}]"
+ec-2025-10-31-8,2025-10-31T23:15:00,85,"600 Kenneth Parks Apt. 462
+Lisatown, WY 57522","[{'product_id': 28, 'qty': 1}, {'product_id': 14, 'qty': 2}]"
+ec-2025-10-31-9,2025-10-31T00:08:00,199,"50333 Kayla Highway Apt. 695
+Moniqueton, NV 10738","[{'product_id': 33, 'qty': 1}]"
+ec-2025-10-31-10,2025-10-31T15:46:00,46,"Unit 9678 Box 5492
+DPO AA 85312","[{'product_id': 28, 'qty': 2}, {'product_id': 38, 'qty': 1}]"

@@ -1,0 +1,4 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-03-0,2025-11-03,2,1212.37,Bean and Sons,5
+exp-2025-11-03-1,2025-11-03,2,364.64,Moore-Smith,1
+exp-2025-11-03-2,2025-11-03,2,1181.25,Graham Ltd,2

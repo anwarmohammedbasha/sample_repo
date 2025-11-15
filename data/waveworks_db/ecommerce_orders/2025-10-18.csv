@@ -1,0 +1,21 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-18-0,2025-10-18T15:59:00,139,"Unit 3953 Box 1336
+DPO AP 71660","[{'product_id': 50, 'qty': 2}, {'product_id': 24, 'qty': 2}]"
+ec-2025-10-18-1,2025-10-18T11:36:00,145,"130 Rodriguez Island
+Nicholasview, CA 70426","[{'product_id': 36, 'qty': 1}, {'product_id': 27, 'qty': 1}, {'product_id': 10, 'qty': 2}]"
+ec-2025-10-18-2,2025-10-18T04:55:00,57,"86613 Brandon Isle Apt. 787
+Petersonbury, GA 16965","[{'product_id': 29, 'qty': 3}]"
+ec-2025-10-18-3,2025-10-18T21:19:00,129,"0702 David Shores Suite 176
+Vanessaberg, FM 68490","[{'product_id': 10, 'qty': 2}]"
+ec-2025-10-18-4,2025-10-18T23:11:00,147,"6556 Hogan Well Suite 956
+Lake Micheal, IL 11213","[{'product_id': 49, 'qty': 1}, {'product_id': 28, 'qty': 1}, {'product_id': 46, 'qty': 2}]"
+ec-2025-10-18-5,2025-10-18T18:30:00,161,"1185 Rowe Springs Suite 140
+North Kimberlyfurt, OR 21360","[{'product_id': 43, 'qty': 2}]"
+ec-2025-10-18-6,2025-10-18T15:54:00,115,"675 Ricky Park
+Port Amy, KS 57441","[{'product_id': 17, 'qty': 1}, {'product_id': 5, 'qty': 1}, {'product_id': 32, 'qty': 1}]"
+ec-2025-10-18-7,2025-10-18T10:42:00,81,"8613 Julia Shoals
+Janetton, FM 35208","[{'product_id': 5, 'qty': 4}, {'product_id': 35, 'qty': 1}, {'product_id': 35, 'qty': 1}]"
+ec-2025-10-18-8,2025-10-18T15:26:00,192,"74577 Kelly Dale Suite 107
+Loganshire, CT 56014","[{'product_id': 5, 'qty': 1}, {'product_id': 23, 'qty': 1}, {'product_id': 39, 'qty': 1}]"
+ec-2025-10-18-9,2025-10-18T01:58:00,143,"54048 King Mill
+South Melissa, DC 91005","[{'product_id': 33, 'qty': 3}, {'product_id': 41, 'qty': 1}]"

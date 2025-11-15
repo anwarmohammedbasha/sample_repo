@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-09-0,2025-11-09,3,802.29,Wood-Blackwell,2
+exp-2025-11-09-1,2025-11-09,5,1590.46,Young PLC,1
+exp-2025-11-09-2,2025-11-09,4,1236.9,"King, Kelly and Harrison",4
+exp-2025-11-09-3,2025-11-09,4,34.02,Miller-Rodriguez,4
+exp-2025-11-09-4,2025-11-09,1,1623.61,Erickson-Parker,3
+exp-2025-11-09-5,2025-11-09,5,851.88,"Wilson, Odom and Lee",3
+exp-2025-11-09-6,2025-11-09,4,1728.75,Jordan Group,4
+exp-2025-11-09-7,2025-11-09,4,41.91,"Cook, Lynch and Martinez",1
+exp-2025-11-09-8,2025-11-09,3,506.45,"Sloan, Thomas and Donovan",3
+exp-2025-11-09-9,2025-11-09,2,1364.98,Mitchell Group,2
+exp-2025-11-09-10,2025-11-09,1,852.09,"Blackburn, Conley and Bennett",3
+exp-2025-11-09-11,2025-11-09,4,117.4,Mccoy-Escobar,5
+exp-2025-11-09-12,2025-11-09,1,753.11,Olsen-Fletcher,3
+exp-2025-11-09-13,2025-11-09,1,426.29,"Cox, Johnston and Bird",3
+exp-2025-11-09-14,2025-11-09,4,1138.66,Wade PLC,4

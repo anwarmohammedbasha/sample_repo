@@ -1,0 +1,15 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-25-0,2025-10-25T08:24:00,75,"064 Harris Path Suite 735
+Hamiltonfurt, AZ 43653","[{'product_id': 17, 'qty': 1}]"
+ec-2025-10-25-1,2025-10-25T17:07:00,191,"99740 Paige Circles
+Pamelaview, TX 65803","[{'product_id': 36, 'qty': 1}, {'product_id': 4, 'qty': 2}]"
+ec-2025-10-25-2,2025-10-25T07:09:00,82,"55815 Amy Views
+Spencerstad, ND 61697","[{'product_id': 4, 'qty': 1}, {'product_id': 43, 'qty': 1}]"
+ec-2025-10-25-3,2025-10-25T03:16:00,125,"27672 Rodriguez Trail
+Lake Deborahbury, LA 40541","[{'product_id': 7, 'qty': 2}, {'product_id': 4, 'qty': 3}, {'product_id': 6, 'qty': 1}]"
+ec-2025-10-25-4,2025-10-25T23:57:00,23,"8629 Cindy Haven
+West Lisa, KY 04261","[{'product_id': 14, 'qty': 3}]"
+ec-2025-10-25-5,2025-10-25T04:36:00,181,"208 Buckley Village Apt. 492
+Jeffreyton, OH 42460","[{'product_id': 20, 'qty': 3}, {'product_id': 9, 'qty': 1}, {'product_id': 20, 'qty': 3}]"
+ec-2025-10-25-6,2025-10-25T00:08:00,42,"48969 Caleb Club
+East Robert, HI 87948","[{'product_id': 36, 'qty': 1}, {'product_id': 42, 'qty': 2}, {'product_id': 9, 'qty': 2}]"

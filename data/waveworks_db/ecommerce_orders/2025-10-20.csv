@@ -1,0 +1,33 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-20-0,2025-10-20T10:14:00,24,"889 Ian Glen Suite 894
+East Shari, AK 09414","[{'product_id': 24, 'qty': 2}, {'product_id': 48, 'qty': 2}, {'product_id': 17, 'qty': 1}]"
+ec-2025-10-20-1,2025-10-20T13:16:00,7,"393 Lauren Corners
+Woodview, DE 16270","[{'product_id': 20, 'qty': 1}]"
+ec-2025-10-20-2,2025-10-20T09:57:00,99,"890 Santana Stream Apt. 628
+New Troy, PW 37951","[{'product_id': 17, 'qty': 1}, {'product_id': 23, 'qty': 3}, {'product_id': 48, 'qty': 1}]"
+ec-2025-10-20-3,2025-10-20T09:40:00,167,"0989 Adams Union
+South Shawn, VA 92387","[{'product_id': 32, 'qty': 1}, {'product_id': 18, 'qty': 1}, {'product_id': 40, 'qty': 1}]"
+ec-2025-10-20-4,2025-10-20T03:55:00,109,"0475 Edward River
+Dorismouth, AS 46089","[{'product_id': 22, 'qty': 2}]"
+ec-2025-10-20-5,2025-10-20T05:39:00,20,"20539 Patricia Prairie
+New Jasmine, RI 62888","[{'product_id': 26, 'qty': 2}]"
+ec-2025-10-20-6,2025-10-20T19:16:00,142,"120 Thompson Loop
+North Jonathanville, KS 36020","[{'product_id': 7, 'qty': 2}, {'product_id': 18, 'qty': 3}]"
+ec-2025-10-20-7,2025-10-20T22:47:00,123,"6731 Mcclure Gateway Apt. 915
+North Frederickfort, KS 60062","[{'product_id': 46, 'qty': 1}]"
+ec-2025-10-20-8,2025-10-20T06:56:00,178,"8263 Patterson Station
+Kathryntown, TN 17864","[{'product_id': 19, 'qty': 1}, {'product_id': 2, 'qty': 1}]"
+ec-2025-10-20-9,2025-10-20T04:16:00,138,"169 Daniel Dam Suite 816
+East Travis, CO 70774","[{'product_id': 41, 'qty': 1}, {'product_id': 16, 'qty': 3}, {'product_id': 2, 'qty': 1}]"
+ec-2025-10-20-10,2025-10-20T05:10:00,109,"233 Walter Springs Apt. 421
+Port Kevinfort, HI 38329","[{'product_id': 23, 'qty': 3}, {'product_id': 37, 'qty': 1}, {'product_id': 47, 'qty': 1}]"
+ec-2025-10-20-11,2025-10-20T06:23:00,30,"850 King Divide
+Port Amandaberg, TX 68390","[{'product_id': 27, 'qty': 1}]"
+ec-2025-10-20-12,2025-10-20T12:52:00,116,"4494 Scott Ranch Apt. 581
+Dakotaland, DE 07193","[{'product_id': 48, 'qty': 1}, {'product_id': 28, 'qty': 2}, {'product_id': 5, 'qty': 5}]"
+ec-2025-10-20-13,2025-10-20T13:27:00,62,"1107 Garcia Wall
+Port Keithfurt, MT 73542","[{'product_id': 9, 'qty': 2}]"
+ec-2025-10-20-14,2025-10-20T04:22:00,35,"882 Pierce Street
+North Candiceburgh, NY 68834","[{'product_id': 18, 'qty': 1}]"
+ec-2025-10-20-15,2025-10-20T02:28:00,54,"0291 Kathryn Trace Apt. 431
+Lake Cynthia, GU 74802","[{'product_id': 36, 'qty': 1}, {'product_id': 15, 'qty': 2}]"

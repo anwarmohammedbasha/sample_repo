@@ -1,0 +1,43 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-03-0,2025-11-03T15:37:00,1,"4473 Young Estate Suite 859
+North Kimberlyfort, PA 96082","[{'product_id': 15, 'qty': 3}, {'product_id': 5, 'qty': 3}, {'product_id': 6, 'qty': 1}]"
+ec-2025-11-03-1,2025-11-03T01:14:00,90,"49847 Walker Common Apt. 166
+Port Brian, MA 62878","[{'product_id': 44, 'qty': 2}]"
+ec-2025-11-03-2,2025-11-03T20:55:00,111,"3935 Perry Walks
+West Natalie, HI 39046","[{'product_id': 39, 'qty': 1}]"
+ec-2025-11-03-3,2025-11-03T15:17:00,159,"6556 Robert Parks Suite 538
+Cervantesshire, KY 99682","[{'product_id': 7, 'qty': 1}]"
+ec-2025-11-03-4,2025-11-03T10:31:00,36,"34578 Wolf Islands Apt. 720
+Amyshire, WV 91430","[{'product_id': 15, 'qty': 1}, {'product_id': 31, 'qty': 3}, {'product_id': 23, 'qty': 1}]"
+ec-2025-11-03-5,2025-11-03T22:06:00,8,"46672 Carroll Walk Apt. 409
+West Hannahfurt, MD 01872","[{'product_id': 26, 'qty': 2}]"
+ec-2025-11-03-6,2025-11-03T23:33:00,26,"723 Corey Trail Suite 980
+Lake Michael, PW 71615","[{'product_id': 26, 'qty': 1}, {'product_id': 9, 'qty': 1}]"
+ec-2025-11-03-7,2025-11-03T07:23:00,105,"26563 Moore Garden Apt. 556
+Anthonyside, PA 49030","[{'product_id': 35, 'qty': 1}, {'product_id': 34, 'qty': 3}]"
+ec-2025-11-03-8,2025-11-03T00:50:00,23,"5351 Haley Falls
+West Pamelamouth, IL 32192","[{'product_id': 50, 'qty': 1}, {'product_id': 41, 'qty': 3}]"
+ec-2025-11-03-9,2025-11-03T05:52:00,152,"401 Joshua Causeway
+New Andrewhaven, NH 41160","[{'product_id': 28, 'qty': 3}, {'product_id': 28, 'qty': 1}]"
+ec-2025-11-03-10,2025-11-03T17:34:00,3,"647 Poole Corner
+Meyerbury, VA 71874","[{'product_id': 13, 'qty': 2}, {'product_id': 29, 'qty': 1}, {'product_id': 26, 'qty': 1}]"
+ec-2025-11-03-11,2025-11-03T11:05:00,44,"042 Omar Ville Apt. 685
+Lanceport, MO 68270","[{'product_id': 39, 'qty': 1}, {'product_id': 39, 'qty': 1}, {'product_id': 1, 'qty': 1}]"
+ec-2025-11-03-12,2025-11-03T08:15:00,82,"72026 Rodriguez Cove Suite 258
+West Jonathonport, MO 40343","[{'product_id': 9, 'qty': 2}]"
+ec-2025-11-03-13,2025-11-03T11:02:00,88,"0423 Jon Points
+Greerview, GA 44596","[{'product_id': 30, 'qty': 2}, {'product_id': 39, 'qty': 2}]"
+ec-2025-11-03-14,2025-11-03T16:55:00,98,"6319 Melissa Green Suite 168
+Port Juanhaven, DE 56642","[{'product_id': 13, 'qty': 2}, {'product_id': 48, 'qty': 1}, {'product_id': 35, 'qty': 2}]"
+ec-2025-11-03-15,2025-11-03T02:28:00,182,"325 James Manors
+Lisaton, NH 31806","[{'product_id': 8, 'qty': 2}, {'product_id': 50, 'qty': 1}]"
+ec-2025-11-03-16,2025-11-03T13:13:00,85,"470 Gregory Road
+Jordanbury, SC 62658","[{'product_id': 13, 'qty': 2}, {'product_id': 37, 'qty': 3}, {'product_id': 38, 'qty': 2}]"
+ec-2025-11-03-17,2025-11-03T12:01:00,102,"PSC 5637, Box 2338
+APO AE 40505","[{'product_id': 35, 'qty': 1}]"
+ec-2025-11-03-18,2025-11-03T03:53:00,79,"839 Garcia Extension Apt. 319
+Port Rodney, MN 14612","[{'product_id': 4, 'qty': 1}]"
+ec-2025-11-03-19,2025-11-03T22:14:00,93,"0988 Rivera Port Apt. 372
+Santanamouth, UT 54174","[{'product_id': 46, 'qty': 1}]"
+ec-2025-11-03-20,2025-11-03T20:17:00,181,"3318 Case Spring
+East Codychester, PR 67259","[{'product_id': 29, 'qty': 1}, {'product_id': 36, 'qty': 2}, {'product_id': 41, 'qty': 1}]"

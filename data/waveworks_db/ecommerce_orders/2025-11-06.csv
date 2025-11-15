@@ -1,0 +1,51 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-06-0,2025-11-06T01:06:00,183,"2831 Pittman Meadows Suite 660
+Aliton, AL 58796","[{'product_id': 38, 'qty': 1}, {'product_id': 9, 'qty': 1}, {'product_id': 44, 'qty': 1}]"
+ec-2025-11-06-1,2025-11-06T07:46:00,174,"177 Johnson Branch
+Tracyport, MI 66098","[{'product_id': 49, 'qty': 1}]"
+ec-2025-11-06-2,2025-11-06T07:20:00,72,"121 Brian Trail Apt. 806
+Lewisside, WI 60691","[{'product_id': 36, 'qty': 1}, {'product_id': 33, 'qty': 1}, {'product_id': 23, 'qty': 2}]"
+ec-2025-11-06-3,2025-11-06T09:57:00,167,"798 Oliver Rue
+Amytown, MO 39551","[{'product_id': 24, 'qty': 1}]"
+ec-2025-11-06-4,2025-11-06T20:44:00,63,"99294 Hall Orchard Apt. 050
+Harrisport, MP 33082","[{'product_id': 3, 'qty': 2}, {'product_id': 12, 'qty': 1}]"
+ec-2025-11-06-5,2025-11-06T08:06:00,28,"458 Barnes Summit Apt. 648
+Aliciabury, RI 68109","[{'product_id': 31, 'qty': 1}]"
+ec-2025-11-06-6,2025-11-06T12:55:00,120,"09503 Daniels Run
+Gonzalezchester, AL 54544","[{'product_id': 5, 'qty': 2}, {'product_id': 8, 'qty': 1}, {'product_id': 2, 'qty': 1}]"
+ec-2025-11-06-7,2025-11-06T09:44:00,161,"918 Johnson Street Suite 217
+West Whitney, MP 37256","[{'product_id': 34, 'qty': 2}]"
+ec-2025-11-06-8,2025-11-06T10:12:00,64,"61680 Rebecca Fork Apt. 856
+South Michaelberg, FL 34148","[{'product_id': 24, 'qty': 1}, {'product_id': 15, 'qty': 2}, {'product_id': 3, 'qty': 1}]"
+ec-2025-11-06-9,2025-11-06T23:24:00,168,"600 Edwards Throughway
+Port Mark, SC 31662","[{'product_id': 38, 'qty': 1}, {'product_id': 42, 'qty': 2}, {'product_id': 7, 'qty': 1}]"
+ec-2025-11-06-10,2025-11-06T23:19:00,150,"888 Landry Avenue Apt. 759
+South Oscarport, AR 64010","[{'product_id': 30, 'qty': 2}, {'product_id': 39, 'qty': 3}, {'product_id': 22, 'qty': 3}]"
+ec-2025-11-06-11,2025-11-06T02:11:00,116,"2824 Christine Flat Apt. 339
+East Adam, MN 62145","[{'product_id': 33, 'qty': 2}]"
+ec-2025-11-06-12,2025-11-06T23:23:00,158,"9928 Graves Falls
+South Lisastad, MA 17571","[{'product_id': 47, 'qty': 2}]"
+ec-2025-11-06-13,2025-11-06T17:11:00,126,"084 King Walks Suite 644
+Charlesview, NE 51390","[{'product_id': 10, 'qty': 2}, {'product_id': 16, 'qty': 3}, {'product_id': 26, 'qty': 1}]"
+ec-2025-11-06-14,2025-11-06T10:59:00,114,"1477 Summer Track
+Higginsside, MT 36863","[{'product_id': 28, 'qty': 1}, {'product_id': 50, 'qty': 1}]"
+ec-2025-11-06-15,2025-11-06T12:15:00,36,"5804 Charles Pines Apt. 486
+North Jonathan, WI 53161","[{'product_id': 29, 'qty': 2}, {'product_id': 32, 'qty': 3}, {'product_id': 23, 'qty': 2}]"
+ec-2025-11-06-16,2025-11-06T20:18:00,190,"12562 Rodney Fall
+North John, RI 66996","[{'product_id': 6, 'qty': 1}, {'product_id': 17, 'qty': 2}, {'product_id': 18, 'qty': 1}]"
+ec-2025-11-06-17,2025-11-06T06:03:00,2,"USS Ali
+FPO AA 38089","[{'product_id': 25, 'qty': 2}, {'product_id': 48, 'qty': 2}, {'product_id': 32, 'qty': 1}]"
+ec-2025-11-06-18,2025-11-06T18:56:00,157,,"[{'product_id': 48, 'qty': 3}]"
+ec-2025-11-06-19,2025-11-06T01:53:00,44,"7672 Herrera Neck Apt. 689
+Moralesburgh, AS 26257","[{'product_id': 26, 'qty': 1}, {'product_id': 29, 'qty': 2}, {'product_id': 42, 'qty': 1}]"
+ec-2025-11-06-20,2025-11-06T01:37:00,70,,"[{'product_id': 14, 'qty': 1}, {'product_id': 30, 'qty': 3}, {'product_id': 44, 'qty': 1}]"
+ec-2025-11-06-21,2025-11-06T18:18:00,183,"6717 Veronica Estates Apt. 400
+North Ashley, NV 73093","[{'product_id': 28, 'qty': 3}]"
+ec-2025-11-06-22,2025-11-06T18:29:00,130,"2150 James Villages Apt. 490
+Lake Richardhaven, NY 07658","[{'product_id': 16, 'qty': 2}]"
+ec-2025-11-06-23,2025-11-06T15:14:00,45,"324 Lee Crest
+New Jessicastad, IA 03452","[{'product_id': 7, 'qty': 1}, {'product_id': 16, 'qty': 2}]"
+ec-2025-11-06-24,2025-11-06T03:25:00,140,"60267 Jonathan Manor Apt. 507
+West Josephview, HI 71293","[{'product_id': 1, 'qty': 2}]"
+ec-2025-11-06-25,2025-11-06T03:21:00,61,"Unit 6200 Box 3449
+DPO AA 34638","[{'product_id': 11, 'qty': 1}, {'product_id': 3, 'qty': 2}, {'product_id': 50, 'qty': 1}]"

@@ -1,0 +1,16 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-04-0,2025-11-04,1,484.71,Robinson-Melendez,5
+exp-2025-11-04-1,2025-11-04,5,804.69,Collins-Mullins,1
+exp-2025-11-04-2,2025-11-04,4,536.51,Baker LLC,4
+exp-2025-11-04-3,2025-11-04,3,323.32,Clark Inc,1
+exp-2025-11-04-4,2025-11-04,4,572.14,"Obrien, King and Weber",5
+exp-2025-11-04-5,2025-11-04,2,1735.23,Charles PLC,3
+exp-2025-11-04-6,2025-11-04,4,272.98,"Gates, Anderson and Carter",2
+exp-2025-11-04-7,2025-11-04,5,1971.05,Shaw PLC,1
+exp-2025-11-04-8,2025-11-04,5,1816.69,"Ruiz, Simpson and Williams",4
+exp-2025-11-04-9,2025-11-04,4,94.72,Williams and Sons,5
+exp-2025-11-04-10,2025-11-04,5,971.11,Johnson and Sons,5
+exp-2025-11-04-11,2025-11-04,2,91.64,"Johnson, Gibson and Harris",1
+exp-2025-11-04-12,2025-11-04,5,1401.59,Melton and Sons,3
+exp-2025-11-04-13,2025-11-04,2,166.93,Collier-Turner,2
+exp-2025-11-04-14,2025-11-04,4,763.36,Gomez-Turner,5

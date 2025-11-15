@@ -1,0 +1,15 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-20-0,2025-10-20,1,234.78,Martin-Mitchell,5
+exp-2025-10-20-1,2025-10-20,5,1957.01,"Thomas, Lane and Maldonado",4
+exp-2025-10-20-2,2025-10-20,5,367.47,Freeman Group,5
+exp-2025-10-20-3,2025-10-20,4,387.8,Mccann Inc,5
+exp-2025-10-20-4,2025-10-20,5,333.19,Snyder-Mercer,2
+exp-2025-10-20-5,2025-10-20,5,1825.8,Smith Inc,3
+exp-2025-10-20-6,2025-10-20,2,1625.33,Neal-Kane,1
+exp-2025-10-20-7,2025-10-20,4,1452.11,"Allen, Wood and Taylor",4
+exp-2025-10-20-8,2025-10-20,5,860.73,Ross-Chapman,4
+exp-2025-10-20-9,2025-10-20,3,1330.01,Estrada LLC,3
+exp-2025-10-20-10,2025-10-20,5,1164.0,Figueroa-Wilkinson,1
+exp-2025-10-20-11,2025-10-20,1,765.43,Lara Group,5
+exp-2025-10-20-12,2025-10-20,2,1803.49,"Donaldson, Thomas and Johnson",1
+exp-2025-10-20-13,2025-10-20,3,12.93,Arnold-Diaz,1

@@ -1,0 +1,15 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-10-24-0,2025-10-24T02:46:00,50,"PSC 5639, Box 3872
+APO AE 98629","[{'product_id': 18, 'qty': 1}, {'product_id': 14, 'qty': 1}]"
+ec-2025-10-24-1,2025-10-24T16:27:00,169,"58575 Dorothy Oval
+East Leviville, IN 75345","[{'product_id': 18, 'qty': 2}, {'product_id': 35, 'qty': 2}, {'product_id': 37, 'qty': 1}]"
+ec-2025-10-24-2,2025-10-24T18:37:00,177,"76583 Collier Bypass Apt. 507
+Jimmymouth, CO 54822","[{'product_id': 4, 'qty': 3}, {'product_id': 32, 'qty': 1}, {'product_id': 39, 'qty': 2}]"
+ec-2025-10-24-3,2025-10-24T08:34:00,140,"6434 Estrada Knolls
+Brendamouth, AR 91804","[{'product_id': 1, 'qty': 2}, {'product_id': 19, 'qty': 1}]"
+ec-2025-10-24-4,2025-10-24T22:37:00,169,"438 James Corner
+East Sharon, CA 89606","[{'product_id': 4, 'qty': 1}]"
+ec-2025-10-24-5,2025-10-24T10:38:00,168,"048 Duke Field Apt. 523
+Crystalborough, PA 20891","[{'product_id': 3, 'qty': 2}]"
+ec-2025-10-24-6,2025-10-24T14:14:00,107,"USS Andrews
+FPO AE 59255","[{'product_id': 35, 'qty': 3}, {'product_id': 3, 'qty': 1}]"

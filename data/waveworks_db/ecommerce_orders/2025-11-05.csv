@@ -1,0 +1,14 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-05-0,2025-11-05T14:15:00,35,"841 Robert Extension
+North Xavierchester, GU 61892","[{'product_id': 7, 'qty': 1}, {'product_id': 29, 'qty': 2}, {'product_id': 17, 'qty': 1}]"
+ec-2025-11-05-1,2025-11-05T04:47:00,23,"202 Maria Loaf
+Suarezville, NM 43088","[{'product_id': 24, 'qty': 4}, {'product_id': 28, 'qty': 1}]"
+ec-2025-11-05-2,2025-11-05T05:41:00,195,"1938 Justin Village Suite 559
+Karimouth, MO 64358","[{'product_id': 12, 'qty': 1}]"
+ec-2025-11-05-3,2025-11-05T14:28:00,8,"42627 Robert Row Apt. 030
+South Stacey, MS 19478","[{'product_id': 8, 'qty': 1}, {'product_id': 29, 'qty': 1}, {'product_id': 26, 'qty': 2}]"
+ec-2025-11-05-4,2025-11-05T02:01:00,109,"060 Vaughn Ridge Apt. 451
+West Matthew, TX 93606","[{'product_id': 39, 'qty': 3}]"
+ec-2025-11-05-5,2025-11-05T14:43:00,62,,"[{'product_id': 40, 'qty': 1}]"
+ec-2025-11-05-6,2025-11-05T14:52:00,191,"8317 Carr Point Suite 967
+Nicoleland, OK 52267","[{'product_id': 20, 'qty': 1}]"

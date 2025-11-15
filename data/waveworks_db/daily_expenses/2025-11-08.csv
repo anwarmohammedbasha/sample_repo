@@ -1,0 +1,10 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-08-0,2025-11-08,1,108.58,"Smith, Griffin and Moore",4
+exp-2025-11-08-1,2025-11-08,1,274.77,Schultz LLC,3
+exp-2025-11-08-2,2025-11-08,4,1869.55,"Davis, Sosa and Thompson",3
+exp-2025-11-08-3,2025-11-08,3,1963.15,Perez Group,2
+exp-2025-11-08-4,2025-11-08,1,644.86,Moore-Mooney,5
+exp-2025-11-08-5,2025-11-08,3,1390.04,Sparks Ltd,2
+exp-2025-11-08-6,2025-11-08,5,190.22,Dawson-Dawson,5
+exp-2025-11-08-7,2025-11-08,1,1439.55,Allen-Johnson,3
+exp-2025-11-08-8,2025-11-08,3,1063.49,Stephens-Dalton,3

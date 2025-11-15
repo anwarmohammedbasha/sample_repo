@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-22-0,2025-10-22,2,810.2,Mejia-Bruce,5
+exp-2025-10-22-1,2025-10-22,4,1105.03,"Hoover, Kline and Hernandez",3
+exp-2025-10-22-2,2025-10-22,3,1686.47,Thomas-Richards,1
+exp-2025-10-22-3,2025-10-22,1,920.71,"Liu, Gardner and Ellis",5
+exp-2025-10-22-4,2025-10-22,3,1903.3,"Edwards, Vaughn and Lopez",4
+exp-2025-10-22-5,2025-10-22,3,186.75,Gonzalez Inc,1
+exp-2025-10-22-6,2025-10-22,4,1874.75,Harvey Ltd,5
+exp-2025-10-22-7,2025-10-22,4,1718.57,Townsend-Phillips,4
+exp-2025-10-22-8,2025-10-22,4,394.95,Scott Group,1
+exp-2025-10-22-9,2025-10-22,5,137.8,"Gonzalez, Burns and Yu",5

@@ -1,0 +1,7 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-10-16-0,2025-10-16,2,63.83,"Brown, Jackson and James",4
+exp-2025-10-16-1,2025-10-16,2,54.28,Johnson Inc,1
+exp-2025-10-16-2,2025-10-16,5,1866.7,Henderson Group,2
+exp-2025-10-16-3,2025-10-16,4,826.52,"French, Sanders and Moyer",5
+exp-2025-10-16-4,2025-10-16,3,1554.44,Saunders PLC,5
+exp-2025-10-16-5,2025-10-16,4,1021.09,Davis Inc,3

@@ -1,0 +1,11 @@
+expense_id,date,department_id,amount,vendor,branch_id
+exp-2025-11-11-0,2025-11-11,4,549.2,"Hines, Vang and Tanner",4
+exp-2025-11-11-1,2025-11-11,1,1546.27,Mercer-Bradshaw,4
+exp-2025-11-11-2,2025-11-11,4,1604.56,"Berry, Shaw and Woodward",3
+exp-2025-11-11-3,2025-11-11,2,1712.52,Murray Group,1
+exp-2025-11-11-4,2025-11-11,5,189.68,Ellis-Ferguson,3
+exp-2025-11-11-5,2025-11-11,4,982.85,Clark Group,2
+exp-2025-11-11-6,2025-11-11,5,1400.22,Thompson-Clay,2
+exp-2025-11-11-7,2025-11-11,2,1135.39,Brown-Lopez,3
+exp-2025-11-11-8,2025-11-11,3,89.44,Glenn-Key,2
+exp-2025-11-11-9,2025-11-11,3,487.75,Harrington-Burke,4

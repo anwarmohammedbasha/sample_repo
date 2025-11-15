@@ -1,0 +1,15 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-10-0,2025-11-10T22:12:00,151,"397 Padilla River
+Jeremystad, MN 54191","[{'product_id': 20, 'qty': 1}, {'product_id': 24, 'qty': 2}, {'product_id': 30, 'qty': 1}]"
+ec-2025-11-10-1,2025-11-10T04:37:00,162,"68985 Jones Stream
+Torresshire, MS 29528","[{'product_id': 3, 'qty': 1}, {'product_id': 39, 'qty': 1}, {'product_id': 12, 'qty': 1}]"
+ec-2025-11-10-2,2025-11-10T21:42:00,199,"6194 George Knoll Suite 048
+East Meganfort, AZ 65118","[{'product_id': 42, 'qty': 1}, {'product_id': 49, 'qty': 2}]"
+ec-2025-11-10-3,2025-11-10T17:20:00,17,"USCGC Duncan
+FPO AP 40663","[{'product_id': 14, 'qty': 1}]"
+ec-2025-11-10-4,2025-11-10T21:13:00,121,"274 Reynolds Divide
+Jerryland, AK 76241","[{'product_id': 29, 'qty': 3}, {'product_id': 8, 'qty': 2}]"
+ec-2025-11-10-5,2025-11-10T16:20:00,169,"920 Jonathan Roads
+South Patrickside, ND 62287","[{'product_id': 1, 'qty': 1}, {'product_id': 9, 'qty': 1}]"
+ec-2025-11-10-6,2025-11-10T22:12:00,44,"869 Garcia Extensions
+East Benjaminberg, MO 01929","[{'product_id': 18, 'qty': 3}, {'product_id': 47, 'qty': 2}, {'product_id': 15, 'qty': 2}]"

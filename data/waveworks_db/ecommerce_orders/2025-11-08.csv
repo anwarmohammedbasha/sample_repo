@@ -1,0 +1,25 @@
+order_id,order_datetime,customer_id,shipping_address,items_json
+ec-2025-11-08-0,2025-11-08T23:29:00,194,"7729 Cruz Mill Apt. 041
+West Katie, NC 30769","[{'product_id': 27, 'qty': 2}, {'product_id': 49, 'qty': 2}, {'product_id': 38, 'qty': 2}]"
+ec-2025-11-08-1,2025-11-08T12:05:00,103,"8977 Martinez Light Suite 476
+Diazside, AK 60640","[{'product_id': 26, 'qty': 2}, {'product_id': 50, 'qty': 1}, {'product_id': 29, 'qty': 1}]"
+ec-2025-11-08-2,2025-11-08T12:42:00,94,"2907 Daniel Track Apt. 358
+Tannerburgh, CO 28415","[{'product_id': 7, 'qty': 1}, {'product_id': 13, 'qty': 1}]"
+ec-2025-11-08-3,2025-11-08T16:18:00,192,"9173 Sandra Hollow Suite 541
+Marktown, NC 16301","[{'product_id': 11, 'qty': 1}]"
+ec-2025-11-08-4,2025-11-08T04:46:00,56,"40184 Danny Junctions
+Cannonshire, IA 18454","[{'product_id': 49, 'qty': 3}, {'product_id': 5, 'qty': 1}, {'product_id': 20, 'qty': 1}]"
+ec-2025-11-08-5,2025-11-08T13:00:00,46,"03051 Sheila Trafficway Suite 566
+Carterside, AK 16621","[{'product_id': 47, 'qty': 2}]"
+ec-2025-11-08-6,2025-11-08T07:27:00,1,"680 David Land
+Robertfurt, DE 33349","[{'product_id': 8, 'qty': 2}, {'product_id': 50, 'qty': 2}, {'product_id': 7, 'qty': 1}]"
+ec-2025-11-08-7,2025-11-08T22:54:00,27,"4768 Owens Via
+Gavinview, FM 00548","[{'product_id': 33, 'qty': 1}, {'product_id': 15, 'qty': 2}]"
+ec-2025-11-08-8,2025-11-08T18:09:00,189,"2596 Rodriguez Port
+South Ashleyville, OH 07636","[{'product_id': 17, 'qty': 2}, {'product_id': 31, 'qty': 2}]"
+ec-2025-11-08-9,2025-11-08T10:41:00,97,"3654 Hicks River
+Port Jessica, IL 10488","[{'product_id': 25, 'qty': 2}, {'product_id': 38, 'qty': 1}, {'product_id': 2, 'qty': 1}]"
+ec-2025-11-08-10,2025-11-08T07:23:00,97,"422 Jones Squares Apt. 616
+North Joshuaburgh, AK 67439","[{'product_id': 1, 'qty': 3}]"
+ec-2025-11-08-11,2025-11-08T16:36:00,175,"914 Moore Fords Apt. 075
+Sheamouth, AS 25511","[{'product_id': 15, 'qty': 2}, {'product_id': 26, 'qty': 1}, {'product_id': 6, 'qty': 1}]"
